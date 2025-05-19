@@ -2,7 +2,7 @@
 
 <h2 style="color:#666666;">📝 Proje Özeti</h2>
 
-Yazılım terimlerini içeren metinleri otomatik tanıyan, açıklamalarını sunan ve teknik olmayan kelimeleri ayıklayan interaktif bir web uygulamasıdır. Kullanıcıya ayrıca terimlerin Türkçe çeviri seçeneği de sağlanır.
+Yazılım terimlerini içeren metinleri otomatik tanıyan, açıklamalarını sunan ve teknik olmayan kelimeleri ayıklayan bir web uygulamasıdır. Kullanıcıya ayrıca terimlerin Türkçe çeviri seçeneği de sağlanır.
 
 <h2 style="color:#666666;">📸 Proje Ekran Görüntüsü</h2>
 
