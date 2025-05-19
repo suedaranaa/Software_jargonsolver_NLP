@@ -6,7 +6,7 @@ Yazılım terimlerini içeren metinleri otomatik tanıyan, açıklamalarını su
 
 <h2 style="color:#666666;">📸 Proje Ekran Görüntüsü</h2>
 
-![](static/screenshots/projegoruntusuu.png)
+![](screenshots/projegoruntusuu.png)
 
 <h2 style="color:#666666;">🛠️ Kullanılan Teknolojiler</h2>
 
@@ -27,7 +27,7 @@ Yazılım terimlerini içeren metinleri otomatik tanıyan, açıklamalarını su
 
 <h2 style="color:#666666;">📁 Proje Dosya Dizini</h2>
 
-![Ana Sayfa Görüntüsü](static/screenshots/egitimden_once.png)
+![Ana Sayfa Görüntüsü](screenshots/egitimden_once.png)
 
 <h2 style="color:#666666;">🚀 Kurulum ve Çalıştırma</h2>
 
@@ -36,7 +36,7 @@ Yazılım terimlerini içeren metinleri otomatik tanıyan, açıklamalarını su
 3. model.ipynb dsyasında çekirdek seçip çalıştırın.
 4. Model eğitildikten sonra dosya dizinine iki tane dosya eklenecek.(text_model.h5/tokenizer.pkl)
 
-![](static/screenshots/egitimden_sonra.png)
+![](screenshots/egitimden_sonra.png)
 
 5. app.py dosyasını terminalde çalıştırın.
 6. Terminalde çıkan adresi ctrl tuşuna basarak tarayıcıda açmasını sağlayın.
