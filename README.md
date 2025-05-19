@@ -9,6 +9,7 @@ Yazılım terimlerini içeren metinleri otomatik tanıyan, açıklamalarını su
 ![](screenshots/projegoruntusuu.png)
 
 <h2 style="color:#666666;">🛠️ Kullanılan Teknolojiler</h2>
+
 - Visual Studio Code (Kaynak kod editörü)
 - Python 3 (Flask)  
 - TensorFlow / Keras (Makine Öğrenimi Modeli)  
