@@ -29,7 +29,6 @@ Yazılım terimlerini içeren metinleri otomatik tanıyan, açıklamalarını su
 
 ![Ana Sayfa Görüntüsü](static/screenshots/egitimden_once.png)
 
-
 <h2 style="color:#666666;">🚀 Kurulum ve Çalıştırma</h2>
 
 1. Projeyi indirin veya klonlayın. (Zip formunda ise dosyayı ayıklayın.) 
