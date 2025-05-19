@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <title>👨‍💻 Yazılım Terimi Çözücü</title>
+  <link href="https://fonts.googleapis.com/css2?family=Fira+Code&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+</head>
+<body>
+  <div class="container">
+    <h1>👨‍💻 Yazılım Terimi Çözücü</h1>
+
+    <form method="post">
+      <label for="metin">💬 Kodu, yorum satırını veya teknik jargonu yaz:</label>
+      <textarea name="metin" id="metin">{{ metin if metin else '' }}</textarea>
+
+      <div class="form-check">
+        <input type="checkbox" id="translate" name="translate" {{ 'checked' if request.form.get('translate') else '' }}>
+        <label class="form-check-label" for="translate">Otomatik Türkçeye çevir 🧠</label>
+      </div>
+
+      <button type="submit">🚀 Analiz Et</button>
+    </form>
+
+    {% if bulunanlar %}
+    <div class="result-box">
+      <h3>🧩 Tespit Edilen Terimler:</h3>
+      {% for kelime, aciklama in bulunanlar %}
+        <div class="term-item">
+          <strong>
+            <a href="https://www.google.com/search?q={{ kelime }}+nedir+yazılım" target="_blank" rel="noopener noreferrer">
+              {{ kelime }}
+            </a>
+          </strong>: {{ aciklama }}
+        </div>
+      {% endfor %}
+
+      {% if negatif_bulunanlar %}
+        <h3 class="negative-header">🚫 Yazılımla İlgili Olmayan Terimler:</h3>
+        <p class="negative-subtitle">Bu kelimeler çözücü tarafından yazılım terimi olarak algılanmamıştır:</p>
+        <ul class="negative-list">
+          {% for kelime in negatif_bulunanlar %}
+            <li>
+              <a href="https://www.google.com/search?q={{ kelime }}+nedir" target="_blank" rel="noopener noreferrer">
+                {{ kelime }}
+              </a>
+            </li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+
+      <h4 class="progress-header">📊 Başarı Yüzdesi:</h4>
+      <div class="progress-container">
+        <div class="progress-bar" style="width: {{ (ortalama_dogruluk * 100)|round(2) }}%;"></div>
+      </div>
+      <p class="progress-text">{{ (ortalama_dogruluk * 100)|round(2) }}%</p>
+    </div>
+    {% endif %}
+
+    <div class="footer">
+      <p>Made with 💻 in Python & Flask</p>
+    </div>
+  </div>
+</body>
+</html>

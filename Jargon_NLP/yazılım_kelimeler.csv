@@ -1,0 +1,2051 @@
+kelime,aciklama
+API ,Uygulamalar arasında iletişimi sağlayan arabirim.
+Backend  ,Sunucu tarafı yazılım geliştirme.
+Frontend ,Kullanıcı arayüzü geliştirme.
+Database ,Veri depolama sistemi.
+Algorithm ,Belirli bir problemi çözme adımları.
+Cloud Computing ,İnternet üzerinden sunucu ve hizmet kullanımı.
+DevOps ,Yazılım geliştirme ve operasyon entegrasyonu.
+Agile ,Çevik yazılım geliştirme metodolojisi.
+Scrum ,Çevik yazılım yönetim çerçevesi.
+Machine Learning ,Verilerden öğrenme ve tahmin yapma.
+Deep Learning ,Yapay sinir ağları ile öğrenme.
+Data Mining ,Veri madenciliği teknikleri.
+SaaS ,Hizmet olarak yazılım.
+PaaS ,Hizmet olarak platform.
+IaaS ,Hizmet olarak altyapı.
+Git ,Sürüm kontrol sistemi.
+GitHub ,Kod barındırma platformu.
+Bitbucket ,Git tabanlı kod depolama aracı.
+Docker ,Konteyner tabanlı sanallaştırma.
+Kubernetes ,Konteyner yönetim sistemi.
+HTTP ,Web iletişim protokolü.
+HTTPS ,Güvenli HTTP protokolü.
+Firewall ,Ağ güvenliği duvarı.
+Load Balancer ,Trafik dengeleyici.
+REST ,Web servis mimarisi.
+GraphQL ,API sorgulama dili.
+React ,Ön yüz kütüphanesi.
+Angular ,Ön yüz geliştirme framework'ü.
+Vue.js ,İleri seviye frontend framework'ü.
+Node.js ,Sunucu taraflı JavaScript çalıştırma ortamı.
+Express.js ,Node.js için web framework'ü.
+Django ,Python ile geliştirilen web framework'ü.
+Flask ,Python mikro web framework'ü.
+TensorFlow ,Makine öğrenimi kütüphanesi.
+PyTorch ,Derin öğrenme kütüphanesi.
+SQL ,İlişkisel veritabanı sorgulama dili.
+NoSQL ,İlişkisel olmayan veritabanları.
+ORM ,Nesne-İlişkisel eşleme aracı.
+JSON ,Veri taşıma formatı.
+XML ,Veri tanımlama dili.
+Bootstrap ,Responsive tasarım kütüphanesi.
+Selenium ,Web otomasyon test aracı.
+Jenkins ,Sürekli entegrasyon aracı.
+CI/CD ,Sürekli entegrasyon ve teslimat.
+Microservices ,Mikro servis mimarisi.
+Monolithic Architecture ,Tek parça yazılım mimarisi.
+Authentication ,Kimlik doğrulama.
+Authorization ,Yetkilendirme.
+Token ,Kimlik doğrulama verisi.
+JWT ,JSON Web Token kimlik doğrulama.
+Algoritma, belirli bir sorunu çözmek için tasarlanmış bir dizi talimat veya kuraldır.
+Program,Bir bilgisayar programı yürütüldüğünde belirli bir görevi veya işlevi yerine getiren organize bir talimatlar topluluğu olarak adlandırılır.
+ASCII, American Standard Code for Information Interexchange (ASCII) 8 bitlik kodda bulunan harfler sayılar ve diğer karakterlere farklı yuvalar atayan bir standarttır.
+Boolean, Boolean ifadesi veya Boolean mantığı DOĞRU veya YANLIŞ olan ifadeler oluşturmak için kullanılan bir ifadedir.
+Bug, Donanım veya yazılımda arızaya neden olan beklenmeyen bir hatayı veya kusuru belirtmek için kullanılan genel bir terimdir.
+Kod, Kod veya kaynak kodu Java/ C veya Python gibi belirli bir dilin protokolleri kullanılarak yazılmış yazılı bir dizi talimatı tanımlamak için kullanılan bir terimdir.
+Dizi, Diziler/gruplandırılmış benzer türde veri değerlerinin listeleri veya gruplarıdır.
+Nesne Yönelimi, Nesne yönelimli programlama (OOP)/ ‘eylemler’ ve ‘mantık’ yerine nesneler ve veriler etrafında dönen programcılar tarafından tanımlanan bir modeldir.
+Natural Language Processing (NLP), Bilgisayarların insan dilini anlaması işlemesi ve üretmesi üzerine çalışan yapay zeka alanıdır.
+Tokenization, Metni küçük parçalara (kelime/ cümle veya karakter gibi) bölme işlemidir.
+Lemmatization, Bir kelimeyi kök ya da sözlük formuna indirgeme işlemidir.
+Stemming, Kelimelerin son eklerini keserek kök forma indirgeme tekniğidir.
+Named Entity Recognition (NER), Metin içinde kişi/ yer/ kuruluş gibi özel isimleri otomatik olarak tanımlama yöntemidir.
+Part-of-Speech Tagging (POS Tagging), Cümledeki her kelimeye ait dil bilgisel türün (isim/ fiil/ sıfat gibi) belirlenmesi işlemidir.
+Sentiment Analysis, Metinlerdeki duygu (olumlu / olumsuz/ nötr) analizinin yapılmasıdır.
+Bag of Words (BoW), Metni kelime sıklıklarına göre sayısal vektörlere dönüştüren basit bir metin temsil yöntemidir.
+TF-IDF, Bir kelimenin bir belgede ne kadar önemli olduğunu ölçen ağırlıklı kelime temsil yöntemidir.
+Word Embedding, Kelimeleri bağlamlarına göre çok boyutlu sayısal vektörlere dönüştürme tekniğidir.
+Transformer, Dönüştürücü katmanlar kullanarak metni işleyen ve dil modellerinin temelini oluşturan derin öğrenme mimarisidir.
+BERT, Google tarafından geliştirilen cümle içi bağlamı anlayabilen güçlü bir dil modelidir.
+GPT, Büyük miktarda metin üzerinde eğitilerek insan benzeri metinler üretebilen jeneratif ön eğitimli dil modelidir.
+Text Classification, Metinleri belirli kategorilere otomatik olarak ayırma işlemidir.
+Language Modeling, Dilin yapısını öğrenerek anlamlı metinler üretmek ya da eksik kelimeleri tahmin etmek için geliştirilen modelleme tekniğidir.
+Neural Network, İnsan beynindeki sinir hücrelerinden esinlenilerek geliştirilen veri öğrenme ve karar verme temelli yapay ağlardır.
+Artificial Neural Network (ANN), Girdi gizli ve çıktı katmanlarından oluşan temel yapay sinir ağı modelidir.
+Convolutional Neural Network (CNN), Görüntü tanıma gibi alanlarda kullanılan uzamsal veriyi işleyen özel sinir ağı türüdür.
+Recurrent Neural Network (RNN), Zaman serisi veya dil modeli gibi sıralı verilerle çalışmak için geliştirilmiş sinir ağıdır.
+Long Short-Term Memory (LSTM), RNN’lerin uzun vadeli bağıntıları hatırlamasını sağlayan özel bir yapay sinir ağı çeşididir.
+GRU (Gated Recurrent Unit), LSTM'e benzer ama daha sade yapıya sahip sıralı verilerle çalışan sinir ağıdır.
+Autoencoder, Veriyi sıkıştırarak anlamlı temsiller çıkaran ve tekrar geri üreten sinir ağı mimarisidir.
+Generative Adversarial Network (GAN), Biri üreten diğeri değerlendiren iki ağın rekabetiyle yeni veri üretebilen modeldir.
+Activation Function, Sinir ağlarında düğüm çıktısını belirleyen ve modele doğrusal olmayanlık katan matematiksel fonksiyondur.
+ReLU (Rectified Linear Unit), Derin öğrenmede yaygın olarak kullanılan negatif değerleri sıfıra indirgeyen aktivasyon fonksiyonudur.
+Dropout, Ağırlıkların aşırı uyumunu önlemek için eğitim sırasında bazı nöronların rastgele devre dışı bırakılmasıdır.
+Batch Normalization, Sinir ağı katmanlarının girişlerini standartlaştırarak öğrenmeyi hızlandıran tekniktir.
+Epoch, Modelin tüm eğitim verisi üzerinde bir tam geçiş yapmasıdır.
+Loss Function, Modelin tahmini ile gerçek değer arasındaki farkı ölçen fonksiyondur.
+Backpropagation, Hata oranına göre ağırlıkları güncelleyerek modelin öğrenmesini sağlayan algoritmadır.
+Gradient Descent, Hata fonksiyonunu minimize etmek için model ağırlıklarını güncelleyen optimizasyon yöntemidir.
+Overfitting, Modelin eğitim verisine aşırı uyum sağlayarak yeni veride düşük performans göstermesidir.
+Underfitting, Modelin hem eğitim hem test verisinde kötü performans göstererek öğrenememesi durumudur.
+Learning Rate, Modelin her adımda ne kadar öğrenme yapacağını belirleyen parametredir.
+Programlama Dili, Bilgisayarlara ne yapacaklarını anlatmak için kullanılan özel komutlar bütünüdür.
+Kodlama, Bir problemi çözmek için bilgisayar dilinde talimatlar yazma sürecidir.
+Script, Genellikle otomasyon veya küçük işlemler için yazılan basit program parçalarıdır.
+Sunucu (Server), Diğer bilgisayarlara veri veya hizmet sağlayan güçlü bilgisayardır.
+İstemci (Client), Sunucudan veri veya hizmet alan kullanıcı tarafındaki sistemdir.
+IP Adresi, Bilgisayarların internette birbirlerini tanıyabilmesi için verilen benzersiz numaradır.
+Domain, Web sitelerinin internetteki okunabilir adıdır (örnek/ google.com).
+Hosting, Web sitelerinin dosyalarının internet üzerinde barındırılması hizmetidir.
+Browser (Tarayıcı), İnternette web sitelerini görüntülemek için kullanılan yazılımdır (örnek/ Chrome/ Firefox).
+Cookie (Çerez), Web sitelerinin kullanıcı bilgilerini geçici olarak saklamasını sağlayan küçük veri parçalarıdır.
+Debug (Hata Ayıklama), Programdaki hataları bulup düzeltme işlemidir.
+Frontend Developer, Web sitelerinin kullanıcıya görünen kısmını geliştiren yazılımcıdır.
+Backend Developer, Web sitelerinin arka planında çalışan veri ve sunucu işlemlerini geliştiren yazılımcıdır.
+Full Stack Developer, Hem frontend hem de backend geliştirme yapabilen yazılım geliştiricisidir.
+HTML, Web sayfalarının iskeletini oluşturan işaretleme dilidir.
+CSS, Web sayfalarının tasarım ve stil ayarlarını yapan dildir.
+JavaScript, Web sayfalarına hareket ve etkileşim kazandırmak için kullanılan programlama dilidir.
+PHP, Sunucu tarafında çalışan ve web geliştirmede sıkça kullanılan bir programlama dilidir.
+Python, Basit sözdizimi ile popüler olan genel amaçlı güçlü bir programlama dilidir.
+Java, Taşınabilirliği ve geniş kullanım alanı ile bilinen nesne yönelimli bir programlama dilidir.
+C#, Microsoft tarafından geliştirilmiş özellikle masaüstü ve oyun uygulamalarında kullanılan bir dildir.
+C++, Performans odaklı uygulamalar geliştirmek için kullanılan güçlü bir programlama dilidir.
+Mobile App (Mobil Uygulama), Akıllı telefonlar ve tabletler için geliştirilen uygulamalardır.
+Database Administrator (DBA), Veritabanlarının kurulumunu bakımını ve güvenliğini sağlayan kişidir.
+Software Engineer, Yazılım ürünlerini tasarlayan geliştiren ve yöneten profesyoneldir.
+Version Control (Sürüm Kontrolü), Kod değişikliklerini takip etmek ve yönetmek için kullanılan sistemdir.
+Build, Bir yazılım projesinin çalıştırılabilir bir ürüne dönüştürülme işlemidir.
+Bit, Bilginin en küçük birimi olup yalnızca 0 ya da 1 değerini alabilir.
+Byte, 8 bitlik veri grubudur ve genellikle bir karakteri temsil eder.
+Syntax Error, Kodun yazım kurallarına uymaması sonucu oluşan hatadır.
+Runtime Error, Program çalışırken meydana gelen hatadır.
+Ping, Bir cihazın başka bir cihaza olan bağlantısını test eden basit ağ komutudur.
+Bilgisayar, Verileri işleyip saklayabilen elektronik cihazdır.
+Yazılım, Bilgisayarlarda çalışan her türlü program ve komutlar bütünüdür.
+Donanım, Bilgisayarın fiziksel parçalarıdır (örneğin klavye/ ekran/ anakart).
+Programcı, Bilgisayar programlarını yazan kişidir.
+Kod, Bilgisayarın anlayabileceği şekilde yazılmış komutlardır.
+Uygulama, Belirli bir görevi yerine getirmek için geliştirilen yazılım ürünüdür.
+İşletim Sistemi, Bilgisayarın donanımı ile yazılımlar arasında köprü görevi gören temel yazılımdır (örnek/ Windows/ macOS).
+Dosya, Bilgisayarda saklanan bilgi veya veri kümesidir.
+Klasör, Dosyaları düzenli tutmak için kullanılan sanal "dizin"dir.
+Masaüstü, Bilgisayar açıldığında görünen ana ekran alanıdır.
+Klavye, Bilgisayara veri girişini sağlayan donanım birimidir.
+Fare (Mouse), Bilgisayarda imleci hareket ettirmek için kullanılan giriş cihazıdır.
+Ağ (Network), Bilgisayarlar arasında veri alışverişini sağlayan bağlantıdır.
+İnternet, Dünya çapında bilgisayar ağlarını birbirine bağlayan sistemdir.
+Web Sitesi, İnternet üzerinden erişilebilen bilgi ve hizmet sayfaları topluluğudur.
+E-posta, Elektronik ortamda gönderilen dijital mektuptur.
+Şifre, Bir kullanıcıyı tanımlamak ve yetkilendirmek için kullanılan gizli kelime veya sayı dizisidir.
+Güncelleme, Yazılımların yeni sürümlerle daha iyi ve güvenli hale getirilmesi işlemidir.
+Virüs, Bilgisayar sistemlerine zarar vermek amacıyla yazılmış kötü amaçlı yazılımdır.
+Yedekleme, Verilerin kaybolmasını önlemek için başka bir alana kopyalanması işlemidir.
+API Gateway , Mikro servisleri yöneten API geçidi.
+IDE , Entegre geliştirme ortamı.
+Debugger , Hata ayıklama aracı.
+Compiler , Derleyici; kaynak kodu makine koduna çevirir.
+Interpreter , Yorumlayıcı; kodu satır satır çalıştırır.
+Refactoring , Kod yapısını değiştirmeden iyileştirme.
+Design Pattern , Yazılım tasarımı için tekrar kullanılabilir çözümler.
+Singleton , Belirli bir sınıftan tek bir nesne oluşturan tasarım deseni.
+Factory Pattern , Nesne yaratımını yöneten tasarım deseni.
+Observer Pattern , Gözlemcilerin durum değişikliğini izlediği yapı.
+Builder Pattern , Karmaşık nesneleri adım adım oluşturma deseni.
+Adapter Pattern , Uyumsuz arayüzleri birbirine uyarlayan yapı.
+Interface , Sınıfların uygulaması gereken sözleşme.
+Abstract Class , Kısmen tanımlı temel sınıf.
+Encapsulation , Veriyi gizleme ve dış müdahaleyi engelleme.
+Polymorphism , Çok biçimlilik; nesnelerin farklı şekillerde davranabilmesi.
+Inheritance , Kalıtım; bir sınıfın başka bir sınıftan türetilmesi.
+Stack , Son giren ilk çıkar (LIFO) veri yapısı.
+Queue , İlk giren ilk çıkar (FIFO) veri yapısı.
+Linked List , Elemanların düğümlerle birbirine bağlandığı yapı.
+Hash Table , Anahtar-değer eşleşmeli veri yapısı.
+Tree , Hiyerarşik veri yapısı.
+Binary Search Tree , Her düğümün iki çocuğu olan arama ağacı.
+Heap , Öncelik sırasına göre veri tutan yapı.
+Graph , Düğümler ve kenarlarla ilişkili veri yapısı.
+DFS (Depth First Search) , Derinlik öncelikli arama algoritması.
+BFS (Breadth First Search) , Genişlik öncelikli arama algoritması.
+Big O Notation , Algoritma karmaşıklığını gösteren gösterim.
+Recursion , Fonksiyonun kendini çağırması.
+Iteration , Döngü kullanarak tekrar yapma..
+Middleware , Uygulama katmanları arasında çalışan yazılım.
+CLI (Command Line Interface) , Komut satırı arayüzü.
+GUI (Graphical User Interface) , Grafiksel kullanıcı arayüzü.
+Event Loop , JavaScript’in asenkron görev işleyicisi.
+Callback Function , İşlem tamamlandığında çağrılan fonksiyon.
+Promise , JavaScript’te asenkron işlemler için yapı.
+Async/Await , Asenkron işlemleri senkron gibi yazmayı sağlayan sözdizimi.
+Package Manager , Yazılım paketlerini yöneten araç.
+Dependency Injection , Bağımlılıkların dışarıdan sağlanması.
+Unit Test , Kodun en küçük birimini test etme.
+Integration Test , Birlikte çalışan bileşenlerin testi.
+End-to-End Test , Uygulamanın tüm sürecini test etme.
+Test Coverage , Ne kadar kodun test edildiğini gösteren oran.
+Mocking , Testte sahte nesneler kullanmak.
+TDD (Test Driven Development) , Önce test yaz sonra kodla.
+BDD (Behavior Driven Development) , Davranış odaklı yazılım geliştirme.
+Static Typing , Değişken türlerinin önceden tanımlandığı yapı.
+Dynamic Typing , Türlerin çalışma zamanında belirlendiği yapı.
+Immutable , Değiştirilemez veri yapısı.
+Mutable , Değiştirilebilir veri yapısı.
+Lambda Function , İsimsiz fonksiyon.
+Closure , Fonksiyonun dışındaki değişkenlere erişimi.
+Event Handler , Olaylara yanıt veren fonksiyon.
+Routing , URL'leri işlemelere yönlendirme.
+MVC , Model-View-Controller mimarisi.
+MVVM , Model-View-ViewModel mimarisi.
+Clean Code , Okunabilir ve sürdürülebilir kod yazımı.
+Code Smell , Kötü tasarımı gösteren kod yapıları.
+Hotfix , Acil hata düzeltme.
+Patch , Küçük yazılım güncellemesi.
+Release , Yayına alınan yazılım sürümü.
+Versioning , Yazılım sürüm numaralandırması.
+Semantic Versioning , Anlamlı sürümleme sistemi.
+Rollback , Önceki sürüme geri dönme.
+Feature Flag , Özellikleri seçmeli olarak açma.
+Code Review , Kodun ekip tarafından incelenmesi.
+Pair Programming , İki kişinin birlikte kod yazması.
+Codebase , Projeye ait tüm kodların toplamı.
+Boilerplate , Şablon olarak kullanılan başlangıç kodu.
+Dependency , Başka bir bileşene bağlılık.
+Library , Belirli işlevleri içeren kod koleksiyonu.
+Framework , Yapı iskeleti sunan geliştirme çatısı.
+SDK , Yazılım geliştirme kiti.
+API Rate Limit , API çağrısı sınırlandırması.
+Throttling , Trafiği sınırlama yöntemi.
+Caching , Verilerin geçici olarak saklanması.
+Memoization , Fonksiyon sonuçlarını bellekte saklama.
+State Management , Uygulama durumunun kontrolü.
+Redux , React için durum yönetim kütüphanesi.
+Context API , React’te veri paylaşımı.
+Service Worker , Web uygulamasında arka planda çalışan betik.
+Progressive Web App (PWA) , Web uygulamasının mobil uygulama gibi çalışması.
+Responsive Design , Cihaz boyutlarına uyumlu tasarım.
+Accessibility (a11y) , Erişilebilir kullanıcı deneyimi.
+SEO (Search Engine Optimization) , Arama motoru dostu geliştirme.
+Lighthouse , Web performans ölçüm aracı.
+Minification , Kodun küçültülmesi.
+Webpack , JavaScript modül paketleyici.
+Babel , JavaScript derleyicisi.
+ESLint , Kod stil denetleyici.
+Prettier , Kod biçimlendirici.
+Containerization , Yazılımları kapsülleme.
+Virtualization , Donanımı yazılımla taklit etme.
+Infrastructure as Code (IaC) , Altyapıyı kodla tanımlama.
+Ansible , Yapılandırma yönetim aracı.
+Terraform , Altyapı otomasyon aracı.
+Shell Script , Komut dosyası.
+Bash , Unix kabuk dili.
+PowerShell , Windows komut dili.
+CRON , Zamanlanmış görev aracı.
+Scheduler , Görev zamanlayıcı.
+Monitoring , Performans takibi.
+Logging , Olay kayıtları.
+Alerting , Uyarı sistemi.
+Syslog , Sistem günlük protokolü.
+SSL/TLS , Güvenli iletişim protokolleri.
+OAuth , Yetkilendirme protokolü.
+OpenID Connect , Kimlik doğrulama protokolü.
+Penetration Testing , Güvenlik zafiyet testi.
+XSS (Cross-site Scripting) , Web güvenlik açığı.
+CSRF , Kimlik sahtekarlığı güvenlik açığı.
+SQL Injection , SQL sorgusu üzerinden saldırı.
+Zero-day , Bilinmeyen güvenlik açığı.
+Exploit , Açıklardan faydalanma yazılımı.
+Encryption , Şifreleme işlemi.
+Decryption , Şifre çözme.
+Hashing , Verileri sabit uzunlukta özetleme.
+Checksum , Veri doğrulama kodu.
+Salt , Şifre hash işleminde ek güvenlik.
+Digital Signature , Elektronik imzalama yöntemi.
+Public Key , Açık anahtar.
+Private Key , Gizli anahtar.
+Key Pair , Açık ve gizli anahtar çifti.
+Blockchain , Dağıtık kayıt zinciri.
+Smart Contract , Otomatik çalışan blokzincir kodu.
+Dockerfile , Docker imajı tanımlama dosyası.
+Container Image , Konteynerin çalıştırılabilir hali.
+Registry , Konteyner imajlarının saklandığı yer.
+Helm , Kubernetes paket yöneticisi.
+Pod , Kubernetes’in temel çalıştırma birimi.
+Cluster , Birden çok sistemin birleşimi.
+Node , Kubernetes içindeki tekil makine.
+CI Pipeline , Sürekli entegrasyon iş akışı.
+Build Script , Derleme işlemini yöneten komutlar.
+Release Note , Yayın açıklamaları.
+Issue Tracker , Hata ve görev takibi.
+Kanban Board , Görev yönetim panosu.
+Sprint , Kısa geliştirme döngüsü.
+Product Owner , Ürün sorumlusu.
+Scrum Master , Scrum süreçlerini yöneten kişi.
+Backlog , Yapılacak işler listesi.
+Burndown Chart , Kalan işin zamanla azalışı.
+Velocity , Ekip üretkenlik ölçüsü.
+Persona , Kullanıcıyı temsil eden kurgusal karakter.
+Wireframe , Tasarım iskeleti.
+Prototype , Uygulamanın erken modellemesi.
+Mockup , Görsel arayüz tasarımı.
+Usability Test , Kullanılabilirlik testi.
+User Story , Kullanıcı ihtiyacını tanımlayan kısa açıklama.
+Acceptance Criteria , Kabul edilme koşulları.
+Branch , Kod deposundaki farklı geliştirme hattı.
+Merge , Kod dallarını birleştirme.
+Pull Request , Kod değişikliğinin gözden geçirilmesi isteği.
+Commit , Kod değişikliğini kaydetme.
+Fork , Kodun kopyalanarak ayrı geliştirilmesi.
+CI Server , Otomatik derleme yapan sunucu.
+Artifact , Derleme sonrası oluşan çıktı.
+UAT (User Acceptance Testing) , Kullanıcı kabul testi.
+Production , Canlı ortam.
+Staging , Teste yakın önizleme ortamı.
+Sandbox , Deneme ortamı.
+Localhost , Yerel makine adresi.
+Port , Uygulamalara erişim kapısı.
+Proxy Server , Aracı sunucu.
+Reverse Proxy , Sunucu taleplerini yönlendiren yapı.
+WebSocket , Gerçek zamanlı iletişim protokolü.
+Polling , Sürekli veri sorgulama yöntemi.
+Event-Driven Architecture , Olay tabanlı yazılım mimarisi.
+Stateful , Durum bilgisi taşıyan yapı.
+Stateless , Durum taşımayan yapı.
+Session , Kullanıcıya özel bağlantı süreci.
+Token Expiry , Jetonun geçerlilik süresi.
+Multithreading , Çoklu iş parçacığı ile çalışmak.
+Concurrency , Eş zamanlı işlem yürütme.
+Parallelism , Paralel işlem gerçekleştirme.
+Deadlock , Karşılıklı bekleme durumu.
+Race Condition , Eşzamanlılık hatası.
+Semaphore , Erişim kontrol mekanizması.
+Mutex , Tekil kilitleme yöntemi.
+Garbage Collection , Kullanılmayan belleğin temizlenmesi.
+Memory Leak , Serbest bırakılmayan bellek alanı.
+Heap Memory , Dinamik bellek alanı.
+Stack Memory , Fonksiyon çağrılarının saklandığı bellek.
+Thread Pool , Önceden oluşturulmuş iş parçacıkları grubu.
+Daemon , Arka planda çalışan servis.
+Service Mesh , Mikro servisler arası iletişimi yöneten yapı.
+Chaos Engineering , Dayanıklılığı test etmek için sistemleri bozma yöntemi.
+Blue-Green Deployment , Sıfır kesintiyle sürüm geçişi.
+Canary Release , Yeni sürümün küçük bir kullanıcı grubuna sunulması.
+Rollback Plan , Geri dönüş stratejisi.
+Service Level Agreement (SLA) , Hizmet kalitesi anlaşması.
+Service Level Objective (SLO) , Hedeflenen hizmet seviyesi.
+Uptime , Sistem çalışma süresi.
+Latency , Gecikme süresi.
+Throughput , Belirli sürede işlenen işlem sayısı.
+Scalability , Ölçeklenebilirlik.
+Horizontal Scaling , Sunucu sayısını artırma.
+Vertical Scaling , Sunucu kaynaklarını artırma.
+Failover , Yedek sisteme otomatik geçiş.
+High Availability (HA) , Yüksek süreklilik sağlayan sistem tasarımı.
+Yorumlayıcı (Interpreter) , Kodları satır satır çalıştıran program.
+Derleyici (Compiler) , Kaynak kodu makine diline çeviren araç.
+Sürüm Kontrolü (Version Control) , Kod değişikliklerini takip etme sistemi.
+Yapılandırma Dosyası (Configuration File) , Uygulama ayarlarını tutan dosya.
+Bağımlılık (Dependency) , Bir yazılımın çalışması için gereken diğer yazılımlar.
+Çöp Toplayıcı (Garbage Collector) , Kullanılmayan belleği temizleyen sistem.
+İş Parçacığı (Thread) , Bir programın bağımsız çalışabilen alt birimi.
+Yığın (Stack) , Son giren ilk çıkar veri yapısı.
+Kuyruk (Queue) , İlk giren ilk çıkar veri yapısı.
+Yinelenebilirlik (Recursion) , Bir fonksiyonun kendini çağırması durumu.
+Soyutlama (Abstraction) , Karmaşık sistemleri basitleştirme yöntemi.
+Kalıtım (Inheritance) , Bir sınıfın başka bir sınıfın özelliklerini alması.
+Çok Biçimlilik (Polymorphism) , Aynı arayüzle farklı işlemler gerçekleştirme yeteneği.
+Arayüz (Interface) , Sınıflar arasında iletişimi sağlayan yapı.
+Soyut Sınıf (Abstract Class) , Tamamlanmamış sınıf tanımı.
+İstisna (Exception) , Programın çalışma sırasında oluşan hatalar.
+Hata Ayıklama (Debugging) , Kodlardaki hataları bulma ve düzeltme süreci.
+Kod İnceleme (Code Review) , Kodların başkaları tarafından gözden geçirilmesi.
+Sürüm (Release) , Yazılımın belirli bir dağıtım versiyonu.
+Yama (Patch) , Yazılım hatalarını düzeltmek için yapılan küçük güncellemeler.
+Veri Tabanı ve Veri Yönetimi Terimleri
+İlişkisel Veri Tabanı (Relational Database) , Verilerin tablolar halinde saklandığı sistem.
+Anahtar (Key) , Veri tablosunda benzersiz kayıtları tanımlayan alan.
+Yabancı Anahtar (Foreign Key) , Başka bir tabloyla ilişki kuran anahtar.
+Sorgu (Query) , Veri tabanından bilgi çekmek için kullanılan komut.
+Dizin (Index) , Veri tabanında aramaları hızlandıran yapı.
+Normalleştirme (Normalization) , Veri tekrarını azaltmak için yapılan düzenleme.
+Denormalizasyon (Denormalization) , Performans için veri tekrarına izin verme işlemi.
+Veri Ambarı (Data Warehouse) , Büyük miktarda verinin analiz için saklandığı sistem.
+Veri Madenciliği (Data Mining) , Büyük veri setlerinden anlamlı bilgiler çıkarma süreci.
+ETL (Extract-Transform-Load) , Veri çekme- dönüştürme ve yükleme işlemleri.
+Ağ ve Güvenlik Terimleri
+Güvenlik Duvarı (Firewall) , Ağ trafiğini kontrol eden güvenlik sistemi.
+Şifreleme (Encryption) , Verileri yetkisiz erişime karşı koruma yöntemi.
+Kimlik Doğrulama (Authentication) , Kullanıcının kimliğini doğrulama süreci.
+Yetkilendirme (Authorization) , Kullanıcının hangi kaynaklara erişebileceğini belirleme.
+Ağ Protokolü (Network Protocol) , Ağ iletişimini düzenleyen kurallar bütünü.
+IP Adresi (IP Address) , Cihazların ağdaki benzersiz tanımlayıcısı.
+Alt Ağ (Subnet) , Ağın daha küçük parçalara bölünmesi.
+VPN (Virtual Private Network) , Güvenli ve özel ağ bağlantısı.
+Saldırı Tespiti (Intrusion Detection) , Yetkisiz erişimlerin tespiti.
+Saldırı Önleme (Intrusion Prevention) , Yetkisiz erişimlerin engellenmesi.
+Yazılım Mühendisliği ve Proje Yönetimi Terimleri
+Çevik Yöntem (Agile Methodology) , Esnek ve iteratif yazılım geliştirme yaklaşımı.
+Scrum , Çevik yöntemlerin uygulanmasını sağlayan çerçeve.
+Sprint , Belirli bir zaman diliminde tamamlanması planlanan görevler bütünü.
+Kullanıcı Hikayesi (User Story) , Kullanıcı ihtiyaçlarını tanımlayan kısa açıklamalar.
+Görev Panosu (Task Board) , Projelerde görevlerin takibini sağlayan araç.
+Gantt Şeması (Gantt Chart) , Proje zaman çizelgesini görselleştiren grafik.
+Kritik Yol (Critical Path) , Projedeki en uzun süreli görevler dizisi.
+Risk Yönetimi (Risk Management) , Projelerdeki potansiyel sorunların belirlenmesi ve yönetimi.
+Paydaş (Stakeholder) , Proje ile ilgisi olan kişi veya gruplar.
+Kabul Kriterleri (Acceptance Criteria) , Bir işin tamamlandığını belirleyen ölçütler.
+Kullanıcı Arayüzü ve Deneyimi Terimleri
+Kullanıcı Arayüzü (User Interface - UI) , Kullanıcının yazılımla etkileşim kurduğu alan.
+Kullanıcı Deneyimi (User Experience - UX) , Kullanıcının yazılımı kullanırken edindiği deneyim.
+Duyarlı Tasarım (Responsive Design) , Farklı cihazlara uyum sağlayan tasarım.
+Tel Kafes (Wireframe) , Arayüzün basit taslak hali.
+Prototip , Ürünün işlevsel olmayan ön sürümü.
+Kullanılabilirlik (Usability) , Yazılımın ne kadar kolay kullanılabildiği.
+Erişilebilirlik (Accessibility) , Yazılımın engelli bireyler tarafından kullanılabilirliği.
+Arayüz Bileşeni (UI Component) , Düğme-menü gibi arayüz öğeleri.
+Navigasyon , Kullanıcının yazılım içinde gezinme süreci.
+Geri Bildirim (Feedback) , Kullanıcının eylemlerine sistemin verdiği yanıt.
+Algoritma , Bir problemin çözümü için izlenen adımların sıralı halidir.
+Mantıksal Operatör , Mantıksal ifadeleri değerlendirmek için kullanılan sembollerdir (ve- veya- değil gibi).
+Koşul İfadesi , Belirli bir koşula göre çalışan kontrol yapısıdır.
+Döngü , Belirli işlemleri tekrar eden programlama yapısıdır.
+Değişken , Program içinde değer saklayan isimlendirilmiş alanlardır.
+Sabit , Değeri sabit olan ve değiştirilemeyen veri yapısıdır.
+Tip Dönüşümü , Bir veri tipini başka bir tipe dönüştürme işlemidir.
+Fonksiyon , Belirli bir görevi yerine getiren kod bloğudur.
+Yordam , Fonksiyon ile benzer anlamda- genelde prosedürel dillerde kullanılır.
+Kapsülleme , Veri ve işlemleri bir arada tutan nesne yönelimli programlama ilkesidir.
+Yığın (Stack), Son giren ilk çıkar mantığıyla çalışan veri yapısıdır.
+Kuyruk (Queue), İlk giren ilk çıkar mantığıyla çalışan veri yapısıdır.
+İkili Ağaç (Binary Tree), Her düğümün en fazla iki çocuğu olan ağaç yapısıdır.
+Hash Tablosu, Anahtar-değer eşleşmesiyle veri saklayan veri yapısıdır.
+Özyineleme (Recursion), Bir fonksiyonun kendini çağırması durumudur.
+Derleyici (Compiler), Kaynak kodu makine diline çeviren yazılımdır.
+Yorumlayıcı (Interpreter), Kodları satır satır çalıştıran programdır.
+Bytecode, Derlenmiş ancak doğrudan çalıştırılamayan ara koddur.
+Modül, Belirli işlevler içeren ve başka programlarda kullanılabilen dosyadır.
+Paket, İçinde birden fazla modül barındıran yapılandırılmış klasördür.
+Sanal Makine (VM), Fiziksel donanım üzerinde çalışan yazılım tabanlı bilgisayardır.
+Çekirdek (Kernel), İşletim sisteminin donanımla iletişimini sağlayan çekirdek yazılımdır.
+İş Parçacığı (Thread), Bir program içinde aynı anda çalışan alt birimdir.
+Süreç (Process), Yürütülmekte olan bir programın işletim sistemindeki karşılığıdır.
+Paralel Programlama, Aynı anda birden fazla görevin işlendiği programlama yöntemidir.
+Senkron, İşlemlerin sıralı ve beklemeli şekilde çalışmasıdır.
+Asenkron, İşlemlerin birbirini beklemeden çalışmasıdır.
+Bellek Sızıntısı, Kullanılan belleğin serbest bırakılmaması durumudur.
+Bellek Yönetimi, Uygulamanın bellek kullanımını organize eden işlemlerdir.
+Çöp Toplayıcı (Garbage Collector), Kullanılmayan nesneleri bellekten kaldıran sistemdir.
+MVC (Model-View-Controller), Yazılım mimarisinde model- görünüm ve kontrolü ayıran yapı.
+MVVM, Model- görünüm ve görünüm modelini ayıran yazılım mimarisi.
+Katmanlı Mimari, Yazılımı mantıksal katmanlara ayıran yapı.
+DAO (Data Access Object), Veritabanı işlemlerini yöneten nesne.
+Singleton, Bir sınıftan sadece bir nesne oluşturulmasını sağlayan tasarım deseni.
+Observer (Gözlemci), Nesneler arası bildirim mekanizmasını sağlayan tasarım deseni.
+Strategy, Farklı algoritmaların dinamik olarak seçilmesini sağlayan desen.
+Factory, Nesnelerin oluşturulmasını merkezi bir noktada sağlayan desen.
+Adapter, Uyumsuz arayüzleri birleştiren yapıdır.
+Decorator, Nesneye dinamik olarak yeni işlevsellik ekleyen desendir.
+Yazılım Testi, Yazılımın istenen şekilde çalışıp çalışmadığını kontrol etme işlemidir.
+Birim Testi, Kodun en küçük parçalarının test edilmesidir.
+Entegrasyon Testi, Farklı bileşenlerin birlikte çalışmasının testidir.
+Sistem Testi, Tüm sistemin bütün olarak test edilmesidir.
+Kabul Testi, Kullanıcı ihtiyaçlarını karşılayıp karşılamadığını test eder.
+Hata Ayıklama (Debugging), Yazılım hatalarının bulunması ve giderilmesidir.
+Test Otomasyonu, Test süreçlerinin otomatik hale getirilmesidir.
+Mock, Testlerde gerçek nesnelerin yerine kullanılan sahte nesnelerdir.
+Assert, Testlerde beklenen sonucu doğrulamak için kullanılır.
+Coverage (Kapsama), Testlerin kodun ne kadarını kapsadığını ölçer.
+Yedekleme, Verilerin kaybını önlemek için kopyalanması işlemidir.
+Şifreleme (Encryption), Verinin gizlenmesi amacıyla dönüştürülmesidir.
+Anahtar (Key), Şifreleme ve şifre çözmede kullanılan özel değerdir.
+Parola Karması (Hashing), Verileri tek yönlü olarak sabit boyutta dönüştürme işlemidir.
+Dijital İmza, Verinin doğruluğunu ve kaynağını garanti eden şifreli imzadır.
+Sertifika, Dijital kimliği doğrulayan belge dosyasıdır.
+Kimlik Doğrulama, Kullanıcının kim olduğunun belirlenmesidir.
+Yetkilendirme, Kullanıcının neye erişebileceğinin belirlenmesidir.
+Oturum Yönetimi, Kullanıcı oturumlarını kontrol eden süreçtir.
+Güvenlik Duvarı (Firewall), Ağ trafiğini denetleyerek güvenliği sağlar.
+API (Uygulama Programlama Arayüzü), Uygulamalar arasında veri alışverişini sağlayan arayüzdür.
+REST, HTTP üzerinden kaynaklara erişim sağlayan API mimarisidir.
+SOAP, XML tabanlı daha katı bir web servis iletişim protokolüdür.
+Endpoint (Uç Nokta), API'nin sunduğu bir hizmete erişim noktasıdır.
+JSON, Hafif- okunabilir veri değişim formatıdır.
+XML, Etiket tabanlı veri biçimidir- genellikle yapılandırılmış veri taşımak için kullanılır.
+URL, İnternet üzerindeki bir kaynağın adresidir.
+HTTP, Web üzerinden veri iletimi sağlayan protokoldür.
+HTTPS, HTTP'nin şifreli ve güvenli versiyonudur.
+WebSocket, Gerçek zamanlı iki yönlü iletişim sağlayan protokoldür.
+Frontend, Kullanıcının doğrudan etkileşimde bulunduğu arayüz kısmıdır.
+Backend, Arka planda çalışan ve veritabanı işlemlerini yöneten yazılım kısmıdır.
+Full Stack, Hem frontend hem de backend geliştirmesi yapabilen geliştiricidir.
+HTML, Web sayfalarının iskeletini oluşturan işaretleme dilidir.
+CSS, HTML içeriğinin stil ve görünümünü belirler.
+JavaScript, Web sayfalarına etkileşim kazandırmak için kullanılan programlama dilidir.
+DOM, Web sayfalarının programatik olarak erişilebilen yapısıdır.
+SPA (Tek Sayfa Uygulaması), Sayfa yenilemeden çalışan web uygulama yapısıdır.
+SSR (Sunucu Taraflı Render), Sayfanın HTML içeriğinin sunucuda oluşturulmasıdır.
+CSR (İstemci Taraflı Render), Sayfanın içeriğinin tarayıcıda oluşturulmasıdır.
+Framework, Yazılım geliştirmeyi kolaylaştıran hazır yapılar bütünüdür.
+Kütüphane (Library), Belirli işlevleri kolaylaştıran hazır fonksiyonlardır.
+Node.js, JavaScript’in sunucu tarafında çalışmasını sağlayan platformdur.
+React, Kullanıcı arayüzleri oluşturmak için kullanılan bir JavaScript kütüphanesidir.
+Angular, Web uygulamaları geliştirmek için kullanılan TypeScript tabanlı framework’tür.
+Vue.js, Web arayüzü geliştirmek için hafif bir JavaScript framework’üdür.
+Django, Python diliyle geliştirilen web framework’üdür.
+Flask, Basit ve hafif bir Python web framework’üdür.
+Spring, Java için kapsamlı bir web uygulama geliştirme çatısıdır.
+Laravel, PHP diliyle yazılmış modern web uygulama çatısıdır.
+ORM (Nesne İlişkisel Haritalama), Nesneleri veritabanı kayıtlarıyla eşleştiren teknolojidir.
+SQL, Veritabanı ile iletişim kurmak için kullanılan sorgu dilidir.
+NoSQL, Geleneksel olmayan veritabanı yapılarının genel adıdır.
+Veritabanı, Verilerin düzenli şekilde depolandığı sistemdir.
+İlişkisel Veritabanı, Tablolar arasında ilişkiler kurarak veri saklayan veritabanıdır.
+Sorgu, Veritabanından veri çekmek veya değiştirmek için yazılan komuttur.
+Normalizasyon, Veritabanında tekrarları önlemek için verinin düzenlenmesidir.
+Replikasyon, Veritabanı içeriğinin başka bir sunucuya aynalanmasıdır.
+Yedekleme (Backup), Veritabanı verilerinin kopyalanması işlemidir.
+SQL Injection, Kötü amaçlı SQL sorgularıyla sistemin istismar edilmesidir.
+Versiyon Kontrolü, Kaynak kodun geçmiş değişikliklerini takip eden sistemdir.
+Git, Dağıtık bir versiyon kontrol sistemidir.
+GitHub, Git projeleri için uzak depo ve işbirliği platformudur.
+Branch (Dal), Ana koddan ayrılıp farklı geliştirmelerin yapıldığı koddur.
+Merge, Bir dalın kodlarını başka bir dala birleştirme işlemidir.
+Pull Request, Koddaki değişiklikleri ana projeye dahil etme isteğidir.
+Commit, Yapılan kod değişikliğinin sisteme kaydedilmesidir.
+Conflict, Birleştirme sırasında aynı satırlarda çakışan değişikliklerin olmasıdır.
+CI (Sürekli Entegrasyon), Kodların sürekli entegre edilmesini sağlayan süreçtir.
+CD (Sürekli Dağıtım), Kodların otomatik olarak üretim ortamına gönderilmesidir.
+Pipeline (Boru Hattı), Yazılım geliştirme sürecindeki otomatik adımlar zinciridir.
+Container (Kapsayıcı), Uygulamaların bağımlılıklarıyla birlikte izole çalışmasını sağlayan yapıdır.
+Docker, Uygulamaları kapsayıcılar içinde çalıştırmaya yarayan platformdur.
+Kubernetes, Birden çok kapsayıcıyı yöneten orkestrasyon sistemidir.
+Virtual Machine (Sanal Makine), Fiziksel makine üzerinde çalışan yazılımsal bilgisayardır.
+Hypervisor, Sanal makineleri oluşturan ve yöneten yazılımdır.
+Load Balancer (Yük Dengeleyici), Gelen ağ trafiğini birden fazla sunucuya dağıtan sistemdir.
+Cache (Önbellek), Sık kullanılan verilerin hızlı erişim için saklandığı geçici alandır.
+CDN (İçerik Dağıtım Ağı), Statik içerikleri kullanıcıya yakın sunucularla servis eden ağdır.
+Proxy, İstemci ile sunucu arasındaki aracı sunucudur.
+Reverse Proxy, Sunucuya gelen istekleri yönlendiren ters vekil sunucudur.
+Middleware, İstemci ve sunucu arasında çalışan ara katman yazılımlardır.
+Authentication (Kimlik Doğrulama), Bir kullanıcının sisteme girişinin doğrulanmasıdır.
+Authorization (Yetkilendirme), Kullanıcının sistem içindeki erişim haklarının kontrolüdür.
+Token, Kimlik doğrulama bilgilerinin kodlanmış halidir.
+OAuth, Üçüncü taraf erişimi için kullanılan yetkilendirme protokolüdür.
+JWT (JSON Web Token), Kimlik doğrulama için kullanılan sıkıştırılmış veri biçimidir.
+SSL/TLS, İnternette veri iletimini şifreleyen güvenlik protokolleridir.
+Firewall (Güvenlik Duvarı), Yetkisiz erişimleri engelleyen ağ güvenlik sistemidir.
+DDoS, Hizmeti engellemek için yapılan çoklu saldırı türüdür.
+Debugging, Yazılımdaki hataları bulma ve düzeltme sürecidir.
+Breakpoint, Hata ayıklama sürecinde kodun durdurulduğu noktadır.
+Logging, Yazılımda olayların kaydedilmesi işlemidir.
+Exception (İstisna), Programın çalışma sırasında karşılaştığı beklenmeyen durumdur.
+Try-Catch, Hataları yakalayıp yönetmek için kullanılan kod yapısıdır.
+Stack Trace, Hata oluştuğunda çağrı yığınını gösteren çıktı dizisidir.
+Build (Derleme), Kaynak koddan çalıştırılabilir dosya üretme işlemidir.
+Compile, Kaynak kodun makine diline çevrilmesidir.
+Runtime, Uygulamanın çalıştığı zamandır.
+Interpreter (Yorumlayıcı), Kodları satır satır çalıştıran programdır.
+Garbage Collection, Kullanılmayan belleğin otomatik olarak temizlenmesidir.
+Memory Leak (Bellek Sızıntısı), Kullanılan belleğin geri bırakılmaması durumudur.
+Thread (İş Parçacığı), Programın aynı anda birden fazla işi yapmasını sağlar.
+Concurrency (Eş Zamanlılık), Aynı anda birden çok iş akışının olmasıdır.
+Parallelism (Paralellik), İşlerin aynı anda farklı işlemcilerde yürütülmesidir.
+Asynchronous (Asenkron), Kodların sırayla değil geri çağrılarla çalışmasıdır.
+Callback, Bir işlemin tamamlanmasından sonra çağrılan fonksiyondur.
+Promise, Gelecekteki bir işlemin sonucunu temsil eden yapıdır.
+Event Loop, JavaScript'in asenkron kodları işleme mekanizmasıdır.
+Race Condition, İşlemlerin sırasız çalışması sonucu oluşan hata durumudur.
+Deadlock (Kilitlenme), İki işlemin birbirini bekleyerek ilerleyememesi durumudur.
+Semaphore, İşlem erişimlerini kontrol eden eşzamanlılık aracıdır.
+Queue (Kuyruk), İlk giren ilk çıkar mantığıyla çalışan veri yapısıdır.
+Stack (Yığın), Son giren ilk çıkar prensibiyle çalışan veri yapısıdır.
+Tree (Ağaç), Hiyerarşik veri yapılarından biridir.
+Graph (Graf), Düğümler ve kenarlarla ilişkileri gösteren veri yapısıdır.
+Linked List, Her elemanın bir sonrakine bağlandığı veri yapısıdır.
+Hash Table, Anahtar-değer eşleşmeleri ile veri saklayan yapıdır.
+Big O Notation, Algoritmaların performansını ifade eden matematiksel gösterimdir.
+Recursion (Özyineleme), Bir fonksiyonun kendini çağırmasıdır.
+Cloud Storage (Bulut Depolama), Verilerin internet üzerinden uzak sunucularda saklanmasıdır.
+Load Balancing (Yük Dengeleme), Trafiği birden fazla sunucuya dağıtarak sistemin daha verimli çalışmasını sağlar.
+CDN (Content Delivery Network), İçeriğin daha hızlı yüklenmesi için veri merkezleri arasında dağıtılmasını sağlayan ağdır.
+Serverless Computing (Sunucusuz Bilişim), Kullanıcıların sunucu yönetimi yapmadan uygulama geliştirmesini sağlayan bulut hizmetidir.
+Edge Computing (Kenar Bilişim), Verilerin kaynağa yakın yerlerde işlenmesidir- böylece gecikmeler azaltılır.
+API Gateway, Birden fazla servisi yöneten ve birleştiren arayüzdür.
+Data Lake (Veri Gölü), Yapısal ve yapısal olmayan verilerin depolandığı büyük veri sistemidir.
+Data Warehouse (Veri Ambarı), Büyük hacimli verilerin depolandığı merkezi veri havuzudur.
+Data Lakehouse (Veri Gölü Evi), Veri gölü ve veri ambarı özelliklerini birleştiren yeni nesil veri yönetim sistemidir.
+Blockchain, Merkezi olmayan- şifreli ve dağıtık veri saklama teknolojisidir.
+Cryptocurrency (Kripto Para), Dijital olarak şifrelenmiş para birimidir- merkeziyetsizdir.
+Smart Contract (Akıllı Sözleşme), Kendi kendine yürütülen- blok zinciri üzerinde çalışan programlardır.
+Cryptocurrency Mining (Kripto Para Madenciliği), Yeni kripto paralar üretmek için yapılan hesaplama işlemleri.
+Ethereum, Akıllı sözleşmeleri çalıştırmak için kullanılan bir blok zinciri platformudur.
+Bitcoin, İlk dijital ve merkeziyetsiz para birimidir.
+DApp (Decentralized Application), Merkezi olmayan ağlar üzerinde çalışan uygulamalardır.
+Proof of Work (İş Kanıtı), Blok zincirindeki işlemleri onaylamak için yapılan hesaplama işidir.
+Proof of Stake (Hisse Kanıtı), Kripto para madenciliği için hisse sahipliği temelli doğrulama sistemidir.
+Tokenomics, Kripto para birimlerinin ekonomik modellerini inceleyen disiplindir.
+Staking, Kripto paralarda belirli bir süre boyunca varlıkların tutulması işlemiyle ödül kazanma.
+Virtual Reality (Sanal Gerçeklik), Kullanıcıyı gerçek dünya dışındaki bir ortama sokan teknolojidir.
+Augmented Reality (Arttırılmış Gerçeklik), Gerçek dünyaya sanal öğelerin eklenmesi teknolojisidir.
+Mixed Reality (Karışık Gerçeklik), Sanal gerçeklik ve artırılmış gerçeklik birleşimidir.
+VR Headset (Sanal Gerçeklik Başlığı), Sanal gerçeklik deneyimini sağlamak için takılan başlık.
+AR Glasses (Artırılmış Gerçeklik Gözlükleri), Artırılmış gerçeklik teknolojisini kullanarak sanal öğeleri gösteren gözlükler.
+3D Modeling (3D Modelleme), Üç boyutlu nesnelerin dijital ortamda oluşturulması işlemidir.
+3D Rendering (3D Görselleştirme), 3D modellerin görsel hale getirilmesi işlemidir.
+Motion Capture (Hareket Takibi), Gerçek dünyadaki hareketlerin dijital ortama aktarılması teknolojisidir.
+Deepfake, Yapay zeka kullanarak gerçek görüntüleri taklit eden medya içerikleridir.
+Digital Twin (Dijital İkiz), Fiziksel bir varlığın dijital kopyasının oluşturulmasıdır.
+WebRTC (Web Real-Time Communication), Tarayıcılar arasında gerçek zamanlı ses- video ve veri iletişimi sağlayan protokoldür.
+WebSocket, Web üzerinde sürekli ve çift yönlü iletişim sağlayan protokoldür.
+NoSQL Database (NoSQL Veritabanı), İlişkisel olmayan- esnek veri yapıları kullanan veritabanıdır.
+MongoDB, NoSQL veritabanı sistemlerinden biridir- genellikle JSON formatında veri saklar.
+Redis, Bellek içi veri yapıları ile yüksek performanslı veri yönetimi sağlayan NoSQL veritabanıdır.
+Elasticsearch, Veri arama ve analiz için kullanılan NoSQL tabanlı- dağıtık bir arama motorudur.
+Hadoop, Büyük veri işleme için kullanılan- açık kaynaklı dağıtık dosya sistemidir.
+Apache Spark, Hızlı veri işleme ve analiz yapabilen açık kaynaklı bir platformdur.
+Kubernetes, Konteyner yönetimi ve orkestrasyonu sağlayan açık kaynaklı bir platformdur.
+Docker Swarm, Docker konteynerlerinin yönetimi ve orkestrasyonu için kullanılan platformdur.
+Microservices Architecture (Mikro Hizmet Mimarisi), Yazılımın küçük- bağımsız hizmetlere bölünerek yönetilmesi modelidir.
+Serverless Architecture (Sunucusuz Mimari), Sunucu altyapısı ile ilgilenmeden uygulama geliştirmeyi mümkün kılar.
+REST API (Representational State Transfer), İnternette veri transferi sağlayan bir API mimarisidir.
+SOAP API (Simple Object Access Protocol), XML tabanlı ve daha sıkı kurallara sahip bir web servis protokolüdür.
+GraphQL API, Sorgularla veriyi esnek bir şekilde almak için kullanılan API türüdür.
+JSON-RPC, JSON formatı üzerinden veri iletmek için kullanılan uzaktan prosedür çağrısı protokolüdür.
+XML-RPC, XML formatı üzerinden uzak sunucularla iletişim kurmak için kullanılan protokoldür.
+API Rate Limiting, API'lere yapılacak isteklerin sınırlanmasıdır.
+API Key, API kullanımını güvenli hale getiren- kullanıcıyı tanımlayan anahtardır.
+OAuth, Kullanıcıların kimlik doğrulama yaparken üçüncü taraf uygulamalarına yetki vermesini sağlayan protokoldür.
+Dependency Management (Bağımlılık Yönetimi), Yazılımda kullanılan dış kütüphanelerin ve araçların yönetilmesidir.
+Package Manager (Paket Yöneticisi), Yazılım bileşenlerinin kurulumu ve yönetimini sağlayan araçtır.
+Virtual Environment (Sanal Ortam), Python gibi dillerde- bağımlılıkların farklı projelerde izole edilmesini sağlayan ortamdır.
+NPM (Node Package Manager), Node.js için paketlerin yönetilmesini sağlayan araçtır.
+Composer, PHP için paket yönetimi sağlayan araçtır.
+Maven, Java projelerinde bağımlılık yönetimi ve yapı oluşturma aracıdır.
+Gradle, Yazılım projelerinde yapılandırma- bağımlılık yönetimi ve derleme işlemleri için kullanılan araçtır.
+GitFlow, Git üzerinde yazılım geliştirme sürecini organize etmek için kullanılan dal yönetim modelidir.
+Fork, Bir proje üzerinde bağımsız değişiklikler yapabilmek için o projeyi kopyalamaktır.
+Pull Request (PR), Bir yazılım değişikliğinin bir ana depoya dahil edilmesi için yapılan istektir.
+Merge, Farklı geliştirme dallarındaki değişiklikleri birleştirme işlemidir.
+Conflict Resolution (Çatışma Çözümü), Kod üzerinde yapılan iki farklı değişikliğin çakışması durumunda çözüm sürecidir.
+Branching, Yazılım geliştirmede farklı özelliklerin paralel olarak geliştirilmesini sağlayan yöntemdir.
+Trunk (Ana Dal), Bir yazılımın ana geliştirme dalıdır.
+Tag, Yazılımda belirli bir versiyona işaret eden işaretçidir.
+Version Control System (Sürüm Kontrol Sistemi), Kod değişikliklerinin izlenmesi ve yönetilmesini sağlayan sistemdir.
+GitHub Actions, GitHub üzerinde otomatik iş akışları oluşturmak için kullanılan araçtır.
+Jenkins Pipeline, Yazılım geliştirme süreçlerinde otomatikleştirilmiş iş akışlarını tanımlar.
+Bitbucket Pipelines, Bitbucket üzerinde sürekli entegrasyon ve teslimat için kullanılan platformdur.
+CircleCI, Yazılım geliştirme süreçlerinde sürekli entegrasyon ve teslimat sağlamak için kullanılan bir araçtır.
+Travis CI, GitHub projelerinde sürekli entegrasyon için kullanılan platformdur.
+Code Review (Kod İncelemesi), Yazılımcıların yazdıkları kodları birbirlerine incelettikleri süreçtir.
+Code Refactoring (Kod Yeniden Yapılandırma), Kodun dış işlevselliğini değiştirmeden daha verimli hale getirilmesidir.
+Code Linter (Kod Linter), Kodun belirli kurallara göre hatalarını tespit eden araçtır.
+Continuous Testing (Sürekli Test), Yazılım geliştirme sürecinde testlerin otomatik ve sürekli yapılmasıdır.
+Test Automation (Test Otomasyonu), Yazılımın test edilmesinin otomatik hale getirilmesidir.
+Unit Test (Birim Testi), Yazılımın en küçük birimlerinin test edilmesidir.
+Integration Test (Entegrasyon Testi), Farklı yazılım bileşenlerinin birlikte çalışıp çalışmadığının test edilmesidir.
+Acceptance Test (Kabul Testi), Yazılımın belirlenen gereksinimlere uygun olup olmadığının test edilmesidir.
+Regression Test (Geriye Dönük Test), Yeni eklemelerin veya değişikliklerin eski işlevselliği bozup bozmadığını test etmektir.
+Load Testing (Yük Testi), Uygulamanın belirli bir yük altında nasıl davrandığını test etmektir.
+Stress Testing (Stres Testi), Uygulamanın aşırı yük altında dayanıklılığını test etmektir.
+Performance Testing (Performans Testi), Uygulamanın hız- verimlilik ve tepki süresi gibi performans parametrelerini test etmektir.
+Security Testing (Güvenlik Testi), Yazılımın güvenlik açıklarını belirlemeye yönelik yapılan testlerdir.
+Penetration Testing (Sızma Testi), Sistem güvenliğini test etmek için yapılan saldırı simülasyonudur.
+Usability Testing (Kullanılabilirlik Testi), Yazılımın kullanıcı dostu olup olmadığının test edilmesidir.
+Alpha Testing (Alfa Testi), Yazılım geliştirme sürecinde iç testlerdir- kullanıcılar tarafından yapılır.
+Beta Testing (Beta Testi), Yazılımın dış kullanıcılar tarafından test edilmesidir.
+Canary Testing, Yeni sürümün sınırlı sayıda kullanıcıyla test edilmesidir.
+User Story (Kullanıcı Hikayesi), Yazılımın kullanıcılarının ihtiyaçlarına dayalı işlevsel gereksinimlerin tanımlanmasıdır.
+Task Board (Görev Panosu), Yazılım geliştirme sürecindeki görevlerin görsel olarak yönetildiği platformdur.
+Kanban, Sürekli iş akışı sağlayan görsel görev yönetim aracıdır.
+Scrum Board, Scrum metodolojisiyle çalışan takımların görevlerini takip ettiği araçtır.
+Burn Down Chart (Yanma Grafiği), Projelerin zaman içindeki ilerlemesini gösteren grafiksel temsilidir.
+Agile Manifesto (Çevik Manifesto), Çevik yazılım geliştirme sürecini tanımlayan ilkeler bütünüdür.
+Scrum Master, Scrum sürecinde takımın doğru şekilde çalışmasını sağlayan kişidir.
+Product Owner (Ürün Sahibi), Yazılım ürününün gereksinimlerini belirleyen ve önceliklendiren kişidir.
+User Acceptance Testing (Kullanıcı Kabul Testi), Kullanıcıların yazılımın gereksinimlere uygunluğunu test etmeleridir.
+Sprint, Scrum metodolojisinde belirli bir süre içinde yapılacak işlerin planlandığı dönemdir.
+Iteration (Dönem), Çevik yazılım geliştirmede sürekli olarak yapılan geliştirme döngüsüdür.
+Algorithm (Algoritma), Belirli bir problemi çözmek için izlenen adımlar dizisidir.
+Framework (Çerçeve), Yazılım geliştirmeyi kolaylaştıran- belirli bir amaca yönelik araçlar ve kütüphaneler bütünüdür.
+Debugging (Hata Ayıklama), Yazılımdaki hataların tespit edilip düzeltilmesi işlemidir.
+Compiler (Derleyici), Kaynak kodu makine diline çeviren yazılım aracıdır.
+Interpreter (Yorumlayıcı), Kaynak kodu satır satır işleyip çalıştıran yazılım aracıdır.
+IDE (Integrated Development Environment - Entegre Geliştirme Ortamı), Yazılım geliştirme sürecini kolaylaştıran- metin düzenleyici- derleyici ve hata ayıklama araçları sunan ortamdır.
+Git (Version Control), Kaynak kodunun sürümlerini yönetmeye yarayan popüler bir sistemdir.
+Repository (Depo), Git gibi sürüm kontrol sistemlerinde- yazılım projelerinin saklandığı ve yönetildiği depodur.
+HTTP (Hypertext Transfer Protocol - Hipermetin Transfer Protokolü), İnternet üzerindeki verilerin iletimini sağlayan protokoldür.
+HTTPS (Hypertext Transfer Protocol Secure - Güvenli Hipermetin Transfer Protokolü), Web üzerindeki veri iletimini şifreleyen güvenli protokoldür.
+DNS (Domain Name System - Alan Adı Sistemi), İnternet üzerindeki alan adlarını IP adreslerine dönüştüren sistemdir.
+SSL/TLS (Secure Sockets Layer / Transport Layer Security - Güvenli Soket Katmanı / Taşıma Katmanı Güvenliği), İnternette veri iletimini şifreleyen güvenlik protokolleridir.
+URL (Uniform Resource Locator - Birleşik Kaynak Konumlandırıcı), İnternetteki bir kaynağın adresini tanımlar.
+Web Browser (Web Tarayıcısı), İnternetteki sayfaları görüntülemek için kullanılan yazılımdır.
+Front-End (Ön Yüz), Web uygulamalarının kullanıcıyla etkileşimde bulunduğu arayüz kısmıdır.
+Back-End (Arka Yüz), Web uygulamalarının veritabanı ve sunucu tarafını kapsayan kısmıdır.
+Full Stack Developer (Tam Yığın Geliştirici), Hem ön yüz hem de arka yüz geliştirmelerini yapabilen yazılım geliştiricisidir.
+HTTP Request (HTTP İsteği), Web sunucusundan veri almak için yapılan istektir.
+Cookie (Çerez), Web tarayıcısında kullanıcının bilgilerini saklayan küçük veri parçalarıdır.
+Session (Oturum), Web uygulamalarında kullanıcının geçici olarak oturum açtığı süreyi tanımlar.
+Cache (Önbellek), Sık erişilen verilerin geçici olarak saklandığı hızlı erişim alanıdır.
+CDN (Content Delivery Network - İçerik Dağıtım Ağı), İçeriğin farklı sunucularda dağıtılmasını sağlayarak yükleme sürelerini kısaltan ağdır.
+SQL (Structured Query Language - Yapısal Sorgulama Dili), Veritabanlarından veri almak- eklemek ve yönetmek için kullanılan sorgulama dilidir.
+NoSQL, Yapısal olmayan verilerin depolanmasında kullanılan- genellikle esnek veri modeline sahip veritabanlarıdır.
+RDBMS (Relational Database Management System - İlişkisel Veritabanı Yönetim Sistemi), Veritabanlarının yönetimi için kullanılan ilişkisel model bazlı sistemdir.
+Schema (Şema), Veritabanındaki tabloların yapısını ve ilişkilerini tanımlar.
+Indexing (İndeksleme), Veritabanındaki verilerin hızlı bir şekilde erişilebilmesi için yapılan yapılandırmadır.
+Normalization (Normalizasyon), Veritabanı yapısını düzenleyerek veritabanındaki veri tekrarını azaltma işlemidir.
+Joins (Birleştirme), Birden fazla veritabanı tablosunun birleştirilmesidir.
+Foreign Key (Yabancı Anahtar), İlişkisel veritabanlarında iki tabloyu birbirine bağlayan alandır.
+Trigger (Tetikleyici), Veritabanı işlemleri sırasında otomatik olarak çalışan SQL komutlarıdır.
+Transaction (İşlem), Veritabanında yapılan ve bütünlüğünü koruyan işlem birimidir.
+Backup (Yedekleme), Verilerin kaybolmaması için düzenli olarak kopyalanması işlemidir.
+Recovery (Kurtarma), Veritabanı veya sistem arızası sonrası verilerin eski haline getirilmesidir.
+Cloud Computing (Bulut Bilişim), Verilerin internet üzerindeki uzak sunucularda işlenmesi ve saklanmasıdır.
+SaaS (Software as a Service - Hizmet Olarak Yazılım), Yazılımın internet üzerinden bir hizmet olarak sunulmasıdır.
+IaaS (Infrastructure as a Service - Hizmet Olarak Altyapı), Altyapı hizmetlerinin internet üzerinden sunulmasıdır.
+PaaS (Platform as a Service - Hizmet Olarak Platform), Geliştiricilere uygulama geliştirme ve dağıtım için gereken platform hizmetlerinin sunulmasıdır.
+Containerization (Konteynerleştirme), Uygulamaların bağımsız olarak çalışabilmesi için sanallaştırılmasını sağlayan bir yöntemdir.
+Docker, Yazılım konteynerlerini oluşturmak ve yönetmek için kullanılan açık kaynaklı bir platformdur.-
+Kubernetes, Konteynerlerin yönetimi ve orkestrasyonu için kullanılan açık kaynaklı bir platformdur.
+Microservices (Mikro Hizmetler), Büyük uygulamaların küçük- bağımsız ve modüler parçalara ayrılması yaklaşımıdır.
+REST (Representational State Transfer - Temsili Durum Transferi), Web servislerinin basit ve ölçeklenebilir bir şekilde iletişim kurmasını sağlayan bir mimaridir.
+SOAP (Simple Object Access Protocol - Basit Nesne Erişim Protokolü), XML tabanlı bir web servis protokolüdür.
+API (Application Programming Interface - Uygulama Programlama Arayüzü), Uygulamalar arasında veri ve işlev paylaşımını sağlayan arayüzdür.
+OAuth, Kullanıcıların verilerine üçüncü parti uygulamalar üzerinden güvenli erişimi sağlayan protokoldür.
+JSON (JavaScript Object Notation), Veri alışverişi için kullanılan-hafif ve kolay okunabilir veri formatıdır.
+XML (Extensible Markup Language , Genişletilebilir İşaretleme Dili)- Veri alışverişi için kullanılan- etiketli bir veri formatıdır.
+JWT (JSON Web Token), Kimlik doğrulama ve veri güvenliği için kullanılan bir token türüdür.
+Rate Limiting (İstek Limitleme), Bir API veya web sunucusuna yapılabilecek isteklerin sayısını sınırlamadır.
+kelime,aciklama
+API ,Uygulamalar arasında iletişimi sağlayan arabirim.
+Backend  ,Sunucu tarafı yazılım geliştirme.
+Frontend ,Kullanıcı arayüzü geliştirme.
+Database ,Veri depolama sistemi.
+Algorithm ,Belirli bir problemi çözme adımları.
+Cloud Computing ,İnternet üzerinden sunucu ve hizmet kullanımı.
+DevOps ,Yazılım geliştirme ve operasyon entegrasyonu.
+Agile ,Çevik yazılım geliştirme metodolojisi.
+Scrum ,Çevik yazılım yönetim çerçevesi.
+Machine Learning ,Verilerden öğrenme ve tahmin yapma.
+Deep Learning ,Yapay sinir ağları ile öğrenme.
+Data Mining ,Veri madenciliği teknikleri.
+SaaS ,Hizmet olarak yazılım.
+PaaS ,Hizmet olarak platform.
+IaaS ,Hizmet olarak altyapı.
+Git ,Sürüm kontrol sistemi.
+GitHub ,Kod barındırma platformu.
+Bitbucket ,Git tabanlı kod depolama aracı.
+Docker ,Konteyner tabanlı sanallaştırma.
+Kubernetes ,Konteyner yönetim sistemi.
+HTTP ,Web iletişim protokolü.
+HTTPS ,Güvenli HTTP protokolü.
+Firewall ,Ağ güvenliği duvarı.
+Load Balancer ,Trafik dengeleyici.
+REST ,Web servis mimarisi.
+GraphQL ,API sorgulama dili.
+React ,Ön yüz kütüphanesi.
+Angular ,Ön yüz geliştirme framework'ü.
+Vue.js ,İleri seviye frontend framework'ü.
+Node.js ,Sunucu taraflı JavaScript çalıştırma ortamı.
+Express.js ,Node.js için web framework'ü.
+Django ,Python ile geliştirilen web framework'ü.
+Flask ,Python mikro web framework'ü.
+TensorFlow ,Makine öğrenimi kütüphanesi.
+PyTorch ,Derin öğrenme kütüphanesi.
+SQL ,İlişkisel veritabanı sorgulama dili.
+NoSQL ,İlişkisel olmayan veritabanları.
+ORM ,Nesne-İlişkisel eşleme aracı.
+JSON ,Veri taşıma formatı.
+XML ,Veri tanımlama dili.
+Bootstrap ,Responsive tasarım kütüphanesi.
+Selenium ,Web otomasyon test aracı.
+Jenkins ,Sürekli entegrasyon aracı.
+CI/CD ,Sürekli entegrasyon ve teslimat.
+Microservices ,Mikro servis mimarisi.
+Monolithic Architecture ,Tek parça yazılım mimarisi.
+Authentication ,Kimlik doğrulama.
+Authorization ,Yetkilendirme.
+Token ,Kimlik doğrulama verisi.
+JWT ,JSON Web Token kimlik doğrulama.
+Algoritma, belirli bir sorunu çözmek için tasarlanmış bir dizi talimat veya kuraldır.
+Program,Bir bilgisayar programı yürütüldüğünde belirli bir görevi veya işlevi yerine getiren organize bir talimatlar topluluğu olarak adlandırılır.
+ASCII, American Standard Code for Information Interexchange (ASCII) 8 bitlik kodda bulunan harfler sayılar ve diğer karakterlere farklı yuvalar atayan bir standarttır.
+Boolean, Boolean ifadesi veya Boolean mantığı DOĞRU veya YANLIŞ olan ifadeler oluşturmak için kullanılan bir ifadedir.
+Bug, Donanım veya yazılımda arızaya neden olan beklenmeyen bir hatayı veya kusuru belirtmek için kullanılan genel bir terimdir.
+Kod, Kod veya kaynak kodu Java/ C veya Python gibi belirli bir dilin protokolleri kullanılarak yazılmış yazılı bir dizi talimatı tanımlamak için kullanılan bir terimdir.
+Dizi, Diziler/gruplandırılmış benzer türde veri değerlerinin listeleri veya gruplarıdır.
+Nesne Yönelimi, Nesne yönelimli programlama (OOP)/ ‘eylemler’ ve ‘mantık’ yerine nesneler ve veriler etrafında dönen programcılar tarafından tanımlanan bir modeldir.
+Natural Language Processing (NLP), Bilgisayarların insan dilini anlaması işlemesi ve üretmesi üzerine çalışan yapay zeka alanıdır.
+Tokenization, Metni küçük parçalara (kelime/ cümle veya karakter gibi) bölme işlemidir.
+Lemmatization, Bir kelimeyi kök ya da sözlük formuna indirgeme işlemidir.
+Stemming, Kelimelerin son eklerini keserek kök forma indirgeme tekniğidir.
+Named Entity Recognition (NER), Metin içinde kişi/ yer/ kuruluş gibi özel isimleri otomatik olarak tanımlama yöntemidir.
+Part-of-Speech Tagging (POS Tagging), Cümledeki her kelimeye ait dil bilgisel türün (isim/ fiil/ sıfat gibi) belirlenmesi işlemidir.
+Sentiment Analysis, Metinlerdeki duygu (olumlu / olumsuz/ nötr) analizinin yapılmasıdır.
+Bag of Words (BoW), Metni kelime sıklıklarına göre sayısal vektörlere dönüştüren basit bir metin temsil yöntemidir.
+TF-IDF, Bir kelimenin bir belgede ne kadar önemli olduğunu ölçen ağırlıklı kelime temsil yöntemidir.
+Word Embedding, Kelimeleri bağlamlarına göre çok boyutlu sayısal vektörlere dönüştürme tekniğidir.
+Transformer, Dönüştürücü katmanlar kullanarak metni işleyen ve dil modellerinin temelini oluşturan derin öğrenme mimarisidir.
+BERT, Google tarafından geliştirilen cümle içi bağlamı anlayabilen güçlü bir dil modelidir.
+GPT, Büyük miktarda metin üzerinde eğitilerek insan benzeri metinler üretebilen jeneratif ön eğitimli dil modelidir.
+Text Classification, Metinleri belirli kategorilere otomatik olarak ayırma işlemidir.
+Language Modeling, Dilin yapısını öğrenerek anlamlı metinler üretmek ya da eksik kelimeleri tahmin etmek için geliştirilen modelleme tekniğidir.
+Neural Network, İnsan beynindeki sinir hücrelerinden esinlenilerek geliştirilen veri öğrenme ve karar verme temelli yapay ağlardır.
+Artificial Neural Network (ANN), Girdi gizli ve çıktı katmanlarından oluşan temel yapay sinir ağı modelidir.
+Convolutional Neural Network (CNN), Görüntü tanıma gibi alanlarda kullanılan uzamsal veriyi işleyen özel sinir ağı türüdür.
+Recurrent Neural Network (RNN), Zaman serisi veya dil modeli gibi sıralı verilerle çalışmak için geliştirilmiş sinir ağıdır.
+Long Short-Term Memory (LSTM), RNN’lerin uzun vadeli bağıntıları hatırlamasını sağlayan özel bir yapay sinir ağı çeşididir.
+GRU (Gated Recurrent Unit), LSTM'e benzer ama daha sade yapıya sahip sıralı verilerle çalışan sinir ağıdır.
+Autoencoder, Veriyi sıkıştırarak anlamlı temsiller çıkaran ve tekrar geri üreten sinir ağı mimarisidir.
+Generative Adversarial Network (GAN), Biri üreten diğeri değerlendiren iki ağın rekabetiyle yeni veri üretebilen modeldir.
+Activation Function, Sinir ağlarında düğüm çıktısını belirleyen ve modele doğrusal olmayanlık katan matematiksel fonksiyondur.
+ReLU (Rectified Linear Unit), Derin öğrenmede yaygın olarak kullanılan negatif değerleri sıfıra indirgeyen aktivasyon fonksiyonudur.
+Dropout, Ağırlıkların aşırı uyumunu önlemek için eğitim sırasında bazı nöronların rastgele devre dışı bırakılmasıdır.
+Batch Normalization, Sinir ağı katmanlarının girişlerini standartlaştırarak öğrenmeyi hızlandıran tekniktir.
+Epoch, Modelin tüm eğitim verisi üzerinde bir tam geçiş yapmasıdır.
+Loss Function, Modelin tahmini ile gerçek değer arasındaki farkı ölçen fonksiyondur.
+Backpropagation, Hata oranına göre ağırlıkları güncelleyerek modelin öğrenmesini sağlayan algoritmadır.
+Gradient Descent, Hata fonksiyonunu minimize etmek için model ağırlıklarını güncelleyen optimizasyon yöntemidir.
+Overfitting, Modelin eğitim verisine aşırı uyum sağlayarak yeni veride düşük performans göstermesidir.
+Underfitting, Modelin hem eğitim hem test verisinde kötü performans göstererek öğrenememesi durumudur.
+Learning Rate, Modelin her adımda ne kadar öğrenme yapacağını belirleyen parametredir.
+Programlama Dili, Bilgisayarlara ne yapacaklarını anlatmak için kullanılan özel komutlar bütünüdür.
+Kodlama, Bir problemi çözmek için bilgisayar dilinde talimatlar yazma sürecidir.
+Script, Genellikle otomasyon veya küçük işlemler için yazılan basit program parçalarıdır.
+Sunucu (Server), Diğer bilgisayarlara veri veya hizmet sağlayan güçlü bilgisayardır.
+İstemci (Client), Sunucudan veri veya hizmet alan kullanıcı tarafındaki sistemdir.
+IP Adresi, Bilgisayarların internette birbirlerini tanıyabilmesi için verilen benzersiz numaradır.
+Domain, Web sitelerinin internetteki okunabilir adıdır (örnek/ google.com).
+Hosting, Web sitelerinin dosyalarının internet üzerinde barındırılması hizmetidir.
+Browser (Tarayıcı), İnternette web sitelerini görüntülemek için kullanılan yazılımdır (örnek/ Chrome/ Firefox).
+Cookie (Çerez), Web sitelerinin kullanıcı bilgilerini geçici olarak saklamasını sağlayan küçük veri parçalarıdır.
+Debug (Hata Ayıklama), Programdaki hataları bulup düzeltme işlemidir.
+Frontend Developer, Web sitelerinin kullanıcıya görünen kısmını geliştiren yazılımcıdır.
+Backend Developer, Web sitelerinin arka planında çalışan veri ve sunucu işlemlerini geliştiren yazılımcıdır.
+Full Stack Developer, Hem frontend hem de backend geliştirme yapabilen yazılım geliştiricisidir.
+HTML, Web sayfalarının iskeletini oluşturan işaretleme dilidir.
+CSS, Web sayfalarının tasarım ve stil ayarlarını yapan dildir.
+JavaScript, Web sayfalarına hareket ve etkileşim kazandırmak için kullanılan programlama dilidir.
+PHP, Sunucu tarafında çalışan ve web geliştirmede sıkça kullanılan bir programlama dilidir.
+Python, Basit sözdizimi ile popüler olan genel amaçlı güçlü bir programlama dilidir.
+Java, Taşınabilirliği ve geniş kullanım alanı ile bilinen nesne yönelimli bir programlama dilidir.
+C#, Microsoft tarafından geliştirilmiş özellikle masaüstü ve oyun uygulamalarında kullanılan bir dildir.
+C++, Performans odaklı uygulamalar geliştirmek için kullanılan güçlü bir programlama dilidir.
+Mobile App (Mobil Uygulama), Akıllı telefonlar ve tabletler için geliştirilen uygulamalardır.
+Database Administrator (DBA), Veritabanlarının kurulumunu bakımını ve güvenliğini sağlayan kişidir.
+Software Engineer, Yazılım ürünlerini tasarlayan geliştiren ve yöneten profesyoneldir.
+Version Control (Sürüm Kontrolü), Kod değişikliklerini takip etmek ve yönetmek için kullanılan sistemdir.
+Build, Bir yazılım projesinin çalıştırılabilir bir ürüne dönüştürülme işlemidir.
+Bit, Bilginin en küçük birimi olup yalnızca 0 ya da 1 değerini alabilir.
+Byte, 8 bitlik veri grubudur ve genellikle bir karakteri temsil eder.
+Syntax Error, Kodun yazım kurallarına uymaması sonucu oluşan hatadır.
+Runtime Error, Program çalışırken meydana gelen hatadır.
+Ping, Bir cihazın başka bir cihaza olan bağlantısını test eden basit ağ komutudur.
+Bilgisayar, Verileri işleyip saklayabilen elektronik cihazdır.
+Yazılım, Bilgisayarlarda çalışan her türlü program ve komutlar bütünüdür.
+Donanım, Bilgisayarın fiziksel parçalarıdır (örneğin klavye/ ekran/ anakart).
+Programcı, Bilgisayar programlarını yazan kişidir.
+Kod, Bilgisayarın anlayabileceği şekilde yazılmış komutlardır.
+Uygulama, Belirli bir görevi yerine getirmek için geliştirilen yazılım ürünüdür.
+İşletim Sistemi, Bilgisayarın donanımı ile yazılımlar arasında köprü görevi gören temel yazılımdır (örnek/ Windows/ macOS).
+Dosya, Bilgisayarda saklanan bilgi veya veri kümesidir.
+Klasör, Dosyaları düzenli tutmak için kullanılan sanal "dizin"dir.
+Masaüstü, Bilgisayar açıldığında görünen ana ekran alanıdır.
+Klavye, Bilgisayara veri girişini sağlayan donanım birimidir.
+Fare (Mouse), Bilgisayarda imleci hareket ettirmek için kullanılan giriş cihazıdır.
+Ağ (Network), Bilgisayarlar arasında veri alışverişini sağlayan bağlantıdır.
+İnternet, Dünya çapında bilgisayar ağlarını birbirine bağlayan sistemdir.
+Web Sitesi, İnternet üzerinden erişilebilen bilgi ve hizmet sayfaları topluluğudur.
+E-posta, Elektronik ortamda gönderilen dijital mektuptur.
+Şifre, Bir kullanıcıyı tanımlamak ve yetkilendirmek için kullanılan gizli kelime veya sayı dizisidir.
+Güncelleme, Yazılımların yeni sürümlerle daha iyi ve güvenli hale getirilmesi işlemidir.
+Virüs, Bilgisayar sistemlerine zarar vermek amacıyla yazılmış kötü amaçlı yazılımdır.
+Yedekleme, Verilerin kaybolmasını önlemek için başka bir alana kopyalanması işlemidir.
+API Gateway , Mikro servisleri yöneten API geçidi.
+IDE , Entegre geliştirme ortamı.
+Debugger , Hata ayıklama aracı.
+Compiler , Derleyici; kaynak kodu makine koduna çevirir.
+Interpreter , Yorumlayıcı; kodu satır satır çalıştırır.
+Refactoring , Kod yapısını değiştirmeden iyileştirme.
+Design Pattern , Yazılım tasarımı için tekrar kullanılabilir çözümler.
+Singleton , Belirli bir sınıftan tek bir nesne oluşturan tasarım deseni.
+Factory Pattern , Nesne yaratımını yöneten tasarım deseni.
+Observer Pattern , Gözlemcilerin durum değişikliğini izlediği yapı.
+Builder Pattern , Karmaşık nesneleri adım adım oluşturma deseni.
+Adapter Pattern , Uyumsuz arayüzleri birbirine uyarlayan yapı.
+Interface , Sınıfların uygulaması gereken sözleşme.
+Abstract Class , Kısmen tanımlı temel sınıf.
+Encapsulation , Veriyi gizleme ve dış müdahaleyi engelleme.
+Polymorphism , Çok biçimlilik; nesnelerin farklı şekillerde davranabilmesi.
+Inheritance , Kalıtım; bir sınıfın başka bir sınıftan türetilmesi.
+Stack , Son giren ilk çıkar (LIFO) veri yapısı.
+Queue , İlk giren ilk çıkar (FIFO) veri yapısı.
+Linked List , Elemanların düğümlerle birbirine bağlandığı yapı.
+Hash Table , Anahtar-değer eşleşmeli veri yapısı.
+Tree , Hiyerarşik veri yapısı.
+Binary Search Tree , Her düğümün iki çocuğu olan arama ağacı.
+Heap , Öncelik sırasına göre veri tutan yapı.
+Graph , Düğümler ve kenarlarla ilişkili veri yapısı.
+DFS (Depth First Search) , Derinlik öncelikli arama algoritması.
+BFS (Breadth First Search) , Genişlik öncelikli arama algoritması.
+Big O Notation , Algoritma karmaşıklığını gösteren gösterim.
+Recursion , Fonksiyonun kendini çağırması.
+Iteration , Döngü kullanarak tekrar yapma..
+Middleware , Uygulama katmanları arasında çalışan yazılım.
+CLI (Command Line Interface) , Komut satırı arayüzü.
+GUI (Graphical User Interface) , Grafiksel kullanıcı arayüzü.
+Event Loop , JavaScript’in asenkron görev işleyicisi.
+Callback Function , İşlem tamamlandığında çağrılan fonksiyon.
+Promise , JavaScript’te asenkron işlemler için yapı.
+Async/Await , Asenkron işlemleri senkron gibi yazmayı sağlayan sözdizimi.
+Package Manager , Yazılım paketlerini yöneten araç.
+Dependency Injection , Bağımlılıkların dışarıdan sağlanması.
+Unit Test , Kodun en küçük birimini test etme.
+Integration Test , Birlikte çalışan bileşenlerin testi.
+End-to-End Test , Uygulamanın tüm sürecini test etme.
+Test Coverage , Ne kadar kodun test edildiğini gösteren oran.
+Mocking , Testte sahte nesneler kullanmak.
+TDD (Test Driven Development) , Önce test yaz sonra kodla.
+BDD (Behavior Driven Development) , Davranış odaklı yazılım geliştirme.
+Static Typing , Değişken türlerinin önceden tanımlandığı yapı.
+Dynamic Typing , Türlerin çalışma zamanında belirlendiği yapı.
+Immutable , Değiştirilemez veri yapısı.
+Mutable , Değiştirilebilir veri yapısı.
+Lambda Function , İsimsiz fonksiyon.
+Closure , Fonksiyonun dışındaki değişkenlere erişimi.
+Event Handler , Olaylara yanıt veren fonksiyon.
+Routing , URL'leri işlemelere yönlendirme.
+MVC , Model-View-Controller mimarisi.
+MVVM , Model-View-ViewModel mimarisi.
+Clean Code , Okunabilir ve sürdürülebilir kod yazımı.
+Code Smell , Kötü tasarımı gösteren kod yapıları.
+Hotfix , Acil hata düzeltme.
+Patch , Küçük yazılım güncellemesi.
+Release , Yayına alınan yazılım sürümü.
+Versioning , Yazılım sürüm numaralandırması.
+Semantic Versioning , Anlamlı sürümleme sistemi.
+Rollback , Önceki sürüme geri dönme.
+Feature Flag , Özellikleri seçmeli olarak açma.
+Code Review , Kodun ekip tarafından incelenmesi.
+Pair Programming , İki kişinin birlikte kod yazması.
+Codebase , Projeye ait tüm kodların toplamı.
+Boilerplate , Şablon olarak kullanılan başlangıç kodu.
+Dependency , Başka bir bileşene bağlılık.
+Library , Belirli işlevleri içeren kod koleksiyonu.
+Framework , Yapı iskeleti sunan geliştirme çatısı.
+SDK , Yazılım geliştirme kiti.
+API Rate Limit , API çağrısı sınırlandırması.
+Throttling , Trafiği sınırlama yöntemi.
+Caching , Verilerin geçici olarak saklanması.
+Memoization , Fonksiyon sonuçlarını bellekte saklama.
+State Management , Uygulama durumunun kontrolü.
+Redux , React için durum yönetim kütüphanesi.
+Context API , React’te veri paylaşımı.
+Service Worker , Web uygulamasında arka planda çalışan betik.
+Progressive Web App (PWA) , Web uygulamasının mobil uygulama gibi çalışması.
+Responsive Design , Cihaz boyutlarına uyumlu tasarım.
+Accessibility (a11y) , Erişilebilir kullanıcı deneyimi.
+SEO (Search Engine Optimization) , Arama motoru dostu geliştirme.
+Lighthouse , Web performans ölçüm aracı.
+Minification , Kodun küçültülmesi.
+Webpack , JavaScript modül paketleyici.
+Babel , JavaScript derleyicisi.
+ESLint , Kod stil denetleyici.
+Prettier , Kod biçimlendirici.
+Containerization , Yazılımları kapsülleme.
+Virtualization , Donanımı yazılımla taklit etme.
+Infrastructure as Code (IaC) , Altyapıyı kodla tanımlama.
+Ansible , Yapılandırma yönetim aracı.
+Terraform , Altyapı otomasyon aracı.
+Shell Script , Komut dosyası.
+Bash , Unix kabuk dili.
+PowerShell , Windows komut dili.
+CRON , Zamanlanmış görev aracı.
+Scheduler , Görev zamanlayıcı.
+Monitoring , Performans takibi.
+Logging , Olay kayıtları.
+Alerting , Uyarı sistemi.
+Syslog , Sistem günlük protokolü.
+SSL/TLS , Güvenli iletişim protokolleri.
+OAuth , Yetkilendirme protokolü.
+OpenID Connect , Kimlik doğrulama protokolü.
+Penetration Testing , Güvenlik zafiyet testi.
+XSS (Cross-site Scripting) , Web güvenlik açığı.
+CSRF , Kimlik sahtekarlığı güvenlik açığı.
+SQL Injection , SQL sorgusu üzerinden saldırı.
+Zero-day , Bilinmeyen güvenlik açığı.
+Exploit , Açıklardan faydalanma yazılımı.
+Encryption , Şifreleme işlemi.
+Decryption , Şifre çözme.
+Hashing , Verileri sabit uzunlukta özetleme.
+Checksum , Veri doğrulama kodu.
+Salt , Şifre hash işleminde ek güvenlik.
+Digital Signature , Elektronik imzalama yöntemi.
+Public Key , Açık anahtar.
+Private Key , Gizli anahtar.
+Key Pair , Açık ve gizli anahtar çifti.
+Blockchain , Dağıtık kayıt zinciri.
+Smart Contract , Otomatik çalışan blokzincir kodu.
+Dockerfile , Docker imajı tanımlama dosyası.
+Container Image , Konteynerin çalıştırılabilir hali.
+Registry , Konteyner imajlarının saklandığı yer.
+Helm , Kubernetes paket yöneticisi.
+Pod , Kubernetes’in temel çalıştırma birimi.
+Cluster , Birden çok sistemin birleşimi.
+Node , Kubernetes içindeki tekil makine.
+CI Pipeline , Sürekli entegrasyon iş akışı.
+Build Script , Derleme işlemini yöneten komutlar.
+Release Note , Yayın açıklamaları.
+Issue Tracker , Hata ve görev takibi.
+Kanban Board , Görev yönetim panosu.
+Sprint , Kısa geliştirme döngüsü.
+Product Owner , Ürün sorumlusu.
+Scrum Master , Scrum süreçlerini yöneten kişi.
+Backlog , Yapılacak işler listesi.
+Burndown Chart , Kalan işin zamanla azalışı.
+Velocity , Ekip üretkenlik ölçüsü.
+Persona , Kullanıcıyı temsil eden kurgusal karakter.
+Wireframe , Tasarım iskeleti.
+Prototype , Uygulamanın erken modellemesi.
+Mockup , Görsel arayüz tasarımı.
+Usability Test , Kullanılabilirlik testi.
+User Story , Kullanıcı ihtiyacını tanımlayan kısa açıklama.
+Acceptance Criteria , Kabul edilme koşulları.
+Branch , Kod deposundaki farklı geliştirme hattı.
+Merge , Kod dallarını birleştirme.
+Pull Request , Kod değişikliğinin gözden geçirilmesi isteği.
+Commit , Kod değişikliğini kaydetme.
+Fork , Kodun kopyalanarak ayrı geliştirilmesi.
+CI Server , Otomatik derleme yapan sunucu.
+Artifact , Derleme sonrası oluşan çıktı.
+UAT (User Acceptance Testing) , Kullanıcı kabul testi.
+Production , Canlı ortam.
+Staging , Teste yakın önizleme ortamı.
+Sandbox , Deneme ortamı.
+Localhost , Yerel makine adresi.
+Port , Uygulamalara erişim kapısı.
+Proxy Server , Aracı sunucu.
+Reverse Proxy , Sunucu taleplerini yönlendiren yapı.
+WebSocket , Gerçek zamanlı iletişim protokolü.
+Polling , Sürekli veri sorgulama yöntemi.
+Event-Driven Architecture , Olay tabanlı yazılım mimarisi.
+Stateful , Durum bilgisi taşıyan yapı.
+Stateless , Durum taşımayan yapı.
+Session , Kullanıcıya özel bağlantı süreci.
+Token Expiry , Jetonun geçerlilik süresi.
+Multithreading , Çoklu iş parçacığı ile çalışmak.
+Concurrency , Eş zamanlı işlem yürütme.
+Parallelism , Paralel işlem gerçekleştirme.
+Deadlock , Karşılıklı bekleme durumu.
+Race Condition , Eşzamanlılık hatası.
+Semaphore , Erişim kontrol mekanizması.
+Mutex , Tekil kilitleme yöntemi.
+Garbage Collection , Kullanılmayan belleğin temizlenmesi.
+Memory Leak , Serbest bırakılmayan bellek alanı.
+Heap Memory , Dinamik bellek alanı.
+Stack Memory , Fonksiyon çağrılarının saklandığı bellek.
+Thread Pool , Önceden oluşturulmuş iş parçacıkları grubu.
+Daemon , Arka planda çalışan servis.
+Service Mesh , Mikro servisler arası iletişimi yöneten yapı.
+Chaos Engineering , Dayanıklılığı test etmek için sistemleri bozma yöntemi.
+Blue-Green Deployment , Sıfır kesintiyle sürüm geçişi.
+Canary Release , Yeni sürümün küçük bir kullanıcı grubuna sunulması.
+Rollback Plan , Geri dönüş stratejisi.
+Service Level Agreement (SLA) , Hizmet kalitesi anlaşması.
+Service Level Objective (SLO) , Hedeflenen hizmet seviyesi.
+Uptime , Sistem çalışma süresi.
+Latency , Gecikme süresi.
+Throughput , Belirli sürede işlenen işlem sayısı.
+Scalability , Ölçeklenebilirlik.
+Horizontal Scaling , Sunucu sayısını artırma.
+Vertical Scaling , Sunucu kaynaklarını artırma.
+Failover , Yedek sisteme otomatik geçiş.
+High Availability (HA) , Yüksek süreklilik sağlayan sistem tasarımı.
+Yorumlayıcı (Interpreter) , Kodları satır satır çalıştıran program.
+Derleyici (Compiler) , Kaynak kodu makine diline çeviren araç.
+Sürüm Kontrolü (Version Control) , Kod değişikliklerini takip etme sistemi.
+Yapılandırma Dosyası (Configuration File) , Uygulama ayarlarını tutan dosya.
+Bağımlılık (Dependency) , Bir yazılımın çalışması için gereken diğer yazılımlar.
+Çöp Toplayıcı (Garbage Collector) , Kullanılmayan belleği temizleyen sistem.
+İş Parçacığı (Thread) , Bir programın bağımsız çalışabilen alt birimi.
+Yığın (Stack) , Son giren ilk çıkar veri yapısı.
+Kuyruk (Queue) , İlk giren ilk çıkar veri yapısı.
+Yinelenebilirlik (Recursion) , Bir fonksiyonun kendini çağırması durumu.
+Soyutlama (Abstraction) , Karmaşık sistemleri basitleştirme yöntemi.
+Kalıtım (Inheritance) , Bir sınıfın başka bir sınıfın özelliklerini alması.
+Çok Biçimlilik (Polymorphism) , Aynı arayüzle farklı işlemler gerçekleştirme yeteneği.
+Arayüz (Interface) , Sınıflar arasında iletişimi sağlayan yapı.
+Soyut Sınıf (Abstract Class) , Tamamlanmamış sınıf tanımı.
+İstisna (Exception) , Programın çalışma sırasında oluşan hatalar.
+Hata Ayıklama (Debugging) , Kodlardaki hataları bulma ve düzeltme süreci.
+Kod İnceleme (Code Review) , Kodların başkaları tarafından gözden geçirilmesi.
+Sürüm (Release) , Yazılımın belirli bir dağıtım versiyonu.
+Yama (Patch) , Yazılım hatalarını düzeltmek için yapılan küçük güncellemeler.
+Veri Tabanı ve Veri Yönetimi Terimleri
+İlişkisel Veri Tabanı (Relational Database) , Verilerin tablolar halinde saklandığı sistem.
+Anahtar (Key) , Veri tablosunda benzersiz kayıtları tanımlayan alan.
+Yabancı Anahtar (Foreign Key) , Başka bir tabloyla ilişki kuran anahtar.
+Sorgu (Query) , Veri tabanından bilgi çekmek için kullanılan komut.
+Dizin (Index) , Veri tabanında aramaları hızlandıran yapı.
+Normalleştirme (Normalization) , Veri tekrarını azaltmak için yapılan düzenleme.
+Denormalizasyon (Denormalization) , Performans için veri tekrarına izin verme işlemi.
+Veri Ambarı (Data Warehouse) , Büyük miktarda verinin analiz için saklandığı sistem.
+Veri Madenciliği (Data Mining) , Büyük veri setlerinden anlamlı bilgiler çıkarma süreci.
+ETL (Extract-Transform-Load) , Veri çekme- dönüştürme ve yükleme işlemleri.
+Ağ ve Güvenlik Terimleri
+Güvenlik Duvarı (Firewall) , Ağ trafiğini kontrol eden güvenlik sistemi.
+Şifreleme (Encryption) , Verileri yetkisiz erişime karşı koruma yöntemi.
+Kimlik Doğrulama (Authentication) , Kullanıcının kimliğini doğrulama süreci.
+Yetkilendirme (Authorization) , Kullanıcının hangi kaynaklara erişebileceğini belirleme.
+Ağ Protokolü (Network Protocol) , Ağ iletişimini düzenleyen kurallar bütünü.
+IP Adresi (IP Address) , Cihazların ağdaki benzersiz tanımlayıcısı.
+Alt Ağ (Subnet) , Ağın daha küçük parçalara bölünmesi.
+VPN (Virtual Private Network) , Güvenli ve özel ağ bağlantısı.
+Saldırı Tespiti (Intrusion Detection) , Yetkisiz erişimlerin tespiti.
+Saldırı Önleme (Intrusion Prevention) , Yetkisiz erişimlerin engellenmesi.
+Yazılım Mühendisliği ve Proje Yönetimi Terimleri
+Çevik Yöntem (Agile Methodology) , Esnek ve iteratif yazılım geliştirme yaklaşımı.
+Scrum , Çevik yöntemlerin uygulanmasını sağlayan çerçeve.
+Sprint , Belirli bir zaman diliminde tamamlanması planlanan görevler bütünü.
+Kullanıcı Hikayesi (User Story) , Kullanıcı ihtiyaçlarını tanımlayan kısa açıklamalar.
+Görev Panosu (Task Board) , Projelerde görevlerin takibini sağlayan araç.
+Gantt Şeması (Gantt Chart) , Proje zaman çizelgesini görselleştiren grafik.
+Kritik Yol (Critical Path) , Projedeki en uzun süreli görevler dizisi.
+Risk Yönetimi (Risk Management) , Projelerdeki potansiyel sorunların belirlenmesi ve yönetimi.
+Paydaş (Stakeholder) , Proje ile ilgisi olan kişi veya gruplar.
+Kabul Kriterleri (Acceptance Criteria) , Bir işin tamamlandığını belirleyen ölçütler.
+Kullanıcı Arayüzü ve Deneyimi Terimleri
+Kullanıcı Arayüzü (User Interface - UI) , Kullanıcının yazılımla etkileşim kurduğu alan.
+Kullanıcı Deneyimi (User Experience - UX) , Kullanıcının yazılımı kullanırken edindiği deneyim.
+Duyarlı Tasarım (Responsive Design) , Farklı cihazlara uyum sağlayan tasarım.
+Tel Kafes (Wireframe) , Arayüzün basit taslak hali.
+Prototip , Ürünün işlevsel olmayan ön sürümü.
+Kullanılabilirlik (Usability) , Yazılımın ne kadar kolay kullanılabildiği.
+Erişilebilirlik (Accessibility) , Yazılımın engelli bireyler tarafından kullanılabilirliği.
+Arayüz Bileşeni (UI Component) , Düğme-menü gibi arayüz öğeleri.
+Navigasyon , Kullanıcının yazılım içinde gezinme süreci.
+Geri Bildirim (Feedback) , Kullanıcının eylemlerine sistemin verdiği yanıt.
+Algoritma , Bir problemin çözümü için izlenen adımların sıralı halidir.
+Mantıksal Operatör , Mantıksal ifadeleri değerlendirmek için kullanılan sembollerdir (ve- veya- değil gibi).
+Koşul İfadesi , Belirli bir koşula göre çalışan kontrol yapısıdır.
+Döngü , Belirli işlemleri tekrar eden programlama yapısıdır.
+Değişken , Program içinde değer saklayan isimlendirilmiş alanlardır.
+Sabit , Değeri sabit olan ve değiştirilemeyen veri yapısıdır.
+Tip Dönüşümü , Bir veri tipini başka bir tipe dönüştürme işlemidir.
+Fonksiyon , Belirli bir görevi yerine getiren kod bloğudur.
+Yordam , Fonksiyon ile benzer anlamda- genelde prosedürel dillerde kullanılır.
+Kapsülleme , Veri ve işlemleri bir arada tutan nesne yönelimli programlama ilkesidir.
+Yığın (Stack), Son giren ilk çıkar mantığıyla çalışan veri yapısıdır.
+Kuyruk (Queue), İlk giren ilk çıkar mantığıyla çalışan veri yapısıdır.
+İkili Ağaç (Binary Tree), Her düğümün en fazla iki çocuğu olan ağaç yapısıdır.
+Hash Tablosu, Anahtar-değer eşleşmesiyle veri saklayan veri yapısıdır.
+Özyineleme (Recursion), Bir fonksiyonun kendini çağırması durumudur.
+Derleyici (Compiler), Kaynak kodu makine diline çeviren yazılımdır.
+Yorumlayıcı (Interpreter), Kodları satır satır çalıştıran programdır.
+Bytecode, Derlenmiş ancak doğrudan çalıştırılamayan ara koddur.
+Modül, Belirli işlevler içeren ve başka programlarda kullanılabilen dosyadır.
+Paket, İçinde birden fazla modül barındıran yapılandırılmış klasördür.
+Sanal Makine (VM), Fiziksel donanım üzerinde çalışan yazılım tabanlı bilgisayardır.
+Çekirdek (Kernel), İşletim sisteminin donanımla iletişimini sağlayan çekirdek yazılımdır.
+İş Parçacığı (Thread), Bir program içinde aynı anda çalışan alt birimdir.
+Süreç (Process), Yürütülmekte olan bir programın işletim sistemindeki karşılığıdır.
+Paralel Programlama, Aynı anda birden fazla görevin işlendiği programlama yöntemidir.
+Senkron, İşlemlerin sıralı ve beklemeli şekilde çalışmasıdır.
+Asenkron, İşlemlerin birbirini beklemeden çalışmasıdır.
+Bellek Sızıntısı, Kullanılan belleğin serbest bırakılmaması durumudur.
+Bellek Yönetimi, Uygulamanın bellek kullanımını organize eden işlemlerdir.
+Çöp Toplayıcı (Garbage Collector), Kullanılmayan nesneleri bellekten kaldıran sistemdir.
+MVC (Model-View-Controller), Yazılım mimarisinde model- görünüm ve kontrolü ayıran yapı.
+MVVM, Model- görünüm ve görünüm modelini ayıran yazılım mimarisi.
+Katmanlı Mimari, Yazılımı mantıksal katmanlara ayıran yapı.
+DAO (Data Access Object), Veritabanı işlemlerini yöneten nesne.
+Singleton, Bir sınıftan sadece bir nesne oluşturulmasını sağlayan tasarım deseni.
+Observer (Gözlemci), Nesneler arası bildirim mekanizmasını sağlayan tasarım deseni.
+Strategy, Farklı algoritmaların dinamik olarak seçilmesini sağlayan desen.
+Factory, Nesnelerin oluşturulmasını merkezi bir noktada sağlayan desen.
+Adapter, Uyumsuz arayüzleri birleştiren yapıdır.
+Decorator, Nesneye dinamik olarak yeni işlevsellik ekleyen desendir.
+Yazılım Testi, Yazılımın istenen şekilde çalışıp çalışmadığını kontrol etme işlemidir.
+Birim Testi, Kodun en küçük parçalarının test edilmesidir.
+Entegrasyon Testi, Farklı bileşenlerin birlikte çalışmasının testidir.
+Sistem Testi, Tüm sistemin bütün olarak test edilmesidir.
+Kabul Testi, Kullanıcı ihtiyaçlarını karşılayıp karşılamadığını test eder.
+Hata Ayıklama (Debugging), Yazılım hatalarının bulunması ve giderilmesidir.
+Test Otomasyonu, Test süreçlerinin otomatik hale getirilmesidir.
+Mock, Testlerde gerçek nesnelerin yerine kullanılan sahte nesnelerdir.
+Assert, Testlerde beklenen sonucu doğrulamak için kullanılır.
+Coverage (Kapsama), Testlerin kodun ne kadarını kapsadığını ölçer.
+Yedekleme, Verilerin kaybını önlemek için kopyalanması işlemidir.
+Şifreleme (Encryption), Verinin gizlenmesi amacıyla dönüştürülmesidir.
+Anahtar (Key), Şifreleme ve şifre çözmede kullanılan özel değerdir.
+Parola Karması (Hashing), Verileri tek yönlü olarak sabit boyutta dönüştürme işlemidir.
+Dijital İmza, Verinin doğruluğunu ve kaynağını garanti eden şifreli imzadır.
+Sertifika, Dijital kimliği doğrulayan belge dosyasıdır.
+Kimlik Doğrulama, Kullanıcının kim olduğunun belirlenmesidir.
+Yetkilendirme, Kullanıcının neye erişebileceğinin belirlenmesidir.
+Oturum Yönetimi, Kullanıcı oturumlarını kontrol eden süreçtir.
+Güvenlik Duvarı (Firewall), Ağ trafiğini denetleyerek güvenliği sağlar.
+API (Uygulama Programlama Arayüzü), Uygulamalar arasında veri alışverişini sağlayan arayüzdür.
+REST, HTTP üzerinden kaynaklara erişim sağlayan API mimarisidir.
+SOAP, XML tabanlı daha katı bir web servis iletişim protokolüdür.
+Endpoint (Uç Nokta), API'nin sunduğu bir hizmete erişim noktasıdır.
+JSON, Hafif- okunabilir veri değişim formatıdır.
+XML, Etiket tabanlı veri biçimidir- genellikle yapılandırılmış veri taşımak için kullanılır.
+URL, İnternet üzerindeki bir kaynağın adresidir.
+HTTP, Web üzerinden veri iletimi sağlayan protokoldür.
+HTTPS, HTTP'nin şifreli ve güvenli versiyonudur.
+WebSocket, Gerçek zamanlı iki yönlü iletişim sağlayan protokoldür.
+Frontend, Kullanıcının doğrudan etkileşimde bulunduğu arayüz kısmıdır.
+Backend, Arka planda çalışan ve veritabanı işlemlerini yöneten yazılım kısmıdır.
+Full Stack, Hem frontend hem de backend geliştirmesi yapabilen geliştiricidir.
+HTML, Web sayfalarının iskeletini oluşturan işaretleme dilidir.
+CSS, HTML içeriğinin stil ve görünümünü belirler.
+JavaScript, Web sayfalarına etkileşim kazandırmak için kullanılan programlama dilidir.
+DOM, Web sayfalarının programatik olarak erişilebilen yapısıdır.
+SPA (Tek Sayfa Uygulaması), Sayfa yenilemeden çalışan web uygulama yapısıdır.
+SSR (Sunucu Taraflı Render), Sayfanın HTML içeriğinin sunucuda oluşturulmasıdır.
+CSR (İstemci Taraflı Render), Sayfanın içeriğinin tarayıcıda oluşturulmasıdır.
+Framework, Yazılım geliştirmeyi kolaylaştıran hazır yapılar bütünüdür.
+Kütüphane (Library), Belirli işlevleri kolaylaştıran hazır fonksiyonlardır.
+Node.js, JavaScript’in sunucu tarafında çalışmasını sağlayan platformdur.
+React, Kullanıcı arayüzleri oluşturmak için kullanılan bir JavaScript kütüphanesidir.
+Angular, Web uygulamaları geliştirmek için kullanılan TypeScript tabanlı framework’tür.
+Vue.js, Web arayüzü geliştirmek için hafif bir JavaScript framework’üdür.
+Django, Python diliyle geliştirilen web framework’üdür.
+Flask, Basit ve hafif bir Python web framework’üdür.
+Spring, Java için kapsamlı bir web uygulama geliştirme çatısıdır.
+Laravel, PHP diliyle yazılmış modern web uygulama çatısıdır.
+ORM (Nesne İlişkisel Haritalama), Nesneleri veritabanı kayıtlarıyla eşleştiren teknolojidir.
+SQL, Veritabanı ile iletişim kurmak için kullanılan sorgu dilidir.
+NoSQL, Geleneksel olmayan veritabanı yapılarının genel adıdır.
+Veritabanı, Verilerin düzenli şekilde depolandığı sistemdir.
+İlişkisel Veritabanı, Tablolar arasında ilişkiler kurarak veri saklayan veritabanıdır.
+Sorgu, Veritabanından veri çekmek veya değiştirmek için yazılan komuttur.
+Normalizasyon, Veritabanında tekrarları önlemek için verinin düzenlenmesidir.
+Replikasyon, Veritabanı içeriğinin başka bir sunucuya aynalanmasıdır.
+Yedekleme (Backup), Veritabanı verilerinin kopyalanması işlemidir.
+SQL Injection, Kötü amaçlı SQL sorgularıyla sistemin istismar edilmesidir.
+Versiyon Kontrolü, Kaynak kodun geçmiş değişikliklerini takip eden sistemdir.
+Git, Dağıtık bir versiyon kontrol sistemidir.
+GitHub, Git projeleri için uzak depo ve işbirliği platformudur.
+Branch (Dal), Ana koddan ayrılıp farklı geliştirmelerin yapıldığı koddur.
+Merge, Bir dalın kodlarını başka bir dala birleştirme işlemidir.
+Pull Request, Koddaki değişiklikleri ana projeye dahil etme isteğidir.
+Commit, Yapılan kod değişikliğinin sisteme kaydedilmesidir.
+Conflict, Birleştirme sırasında aynı satırlarda çakışan değişikliklerin olmasıdır.
+CI (Sürekli Entegrasyon), Kodların sürekli entegre edilmesini sağlayan süreçtir.
+CD (Sürekli Dağıtım), Kodların otomatik olarak üretim ortamına gönderilmesidir.
+Pipeline (Boru Hattı), Yazılım geliştirme sürecindeki otomatik adımlar zinciridir.
+Container (Kapsayıcı), Uygulamaların bağımlılıklarıyla birlikte izole çalışmasını sağlayan yapıdır.
+Docker, Uygulamaları kapsayıcılar içinde çalıştırmaya yarayan platformdur.
+Kubernetes, Birden çok kapsayıcıyı yöneten orkestrasyon sistemidir.
+Virtual Machine (Sanal Makine), Fiziksel makine üzerinde çalışan yazılımsal bilgisayardır.
+Hypervisor, Sanal makineleri oluşturan ve yöneten yazılımdır.
+Load Balancer (Yük Dengeleyici), Gelen ağ trafiğini birden fazla sunucuya dağıtan sistemdir.
+Cache (Önbellek), Sık kullanılan verilerin hızlı erişim için saklandığı geçici alandır.
+CDN (İçerik Dağıtım Ağı), Statik içerikleri kullanıcıya yakın sunucularla servis eden ağdır.
+Proxy, İstemci ile sunucu arasındaki aracı sunucudur.
+Reverse Proxy, Sunucuya gelen istekleri yönlendiren ters vekil sunucudur.
+Middleware, İstemci ve sunucu arasında çalışan ara katman yazılımlardır.
+Authentication (Kimlik Doğrulama), Bir kullanıcının sisteme girişinin doğrulanmasıdır.
+Authorization (Yetkilendirme), Kullanıcının sistem içindeki erişim haklarının kontrolüdür.
+Token, Kimlik doğrulama bilgilerinin kodlanmış halidir.
+OAuth, Üçüncü taraf erişimi için kullanılan yetkilendirme protokolüdür.
+JWT (JSON Web Token), Kimlik doğrulama için kullanılan sıkıştırılmış veri biçimidir.
+SSL/TLS, İnternette veri iletimini şifreleyen güvenlik protokolleridir.
+Firewall (Güvenlik Duvarı), Yetkisiz erişimleri engelleyen ağ güvenlik sistemidir.
+DDoS, Hizmeti engellemek için yapılan çoklu saldırı türüdür.
+Debugging, Yazılımdaki hataları bulma ve düzeltme sürecidir.
+Breakpoint, Hata ayıklama sürecinde kodun durdurulduğu noktadır.
+Logging, Yazılımda olayların kaydedilmesi işlemidir.
+Exception (İstisna), Programın çalışma sırasında karşılaştığı beklenmeyen durumdur.
+Try-Catch, Hataları yakalayıp yönetmek için kullanılan kod yapısıdır.
+Stack Trace, Hata oluştuğunda çağrı yığınını gösteren çıktı dizisidir.
+Build (Derleme), Kaynak koddan çalıştırılabilir dosya üretme işlemidir.
+Compile, Kaynak kodun makine diline çevrilmesidir.
+Runtime, Uygulamanın çalıştığı zamandır.
+Interpreter (Yorumlayıcı), Kodları satır satır çalıştıran programdır.
+Garbage Collection, Kullanılmayan belleğin otomatik olarak temizlenmesidir.
+Memory Leak (Bellek Sızıntısı), Kullanılan belleğin geri bırakılmaması durumudur.
+Thread (İş Parçacığı), Programın aynı anda birden fazla işi yapmasını sağlar.
+Concurrency (Eş Zamanlılık), Aynı anda birden çok iş akışının olmasıdır.
+Parallelism (Paralellik), İşlerin aynı anda farklı işlemcilerde yürütülmesidir.
+Asynchronous (Asenkron), Kodların sırayla değil geri çağrılarla çalışmasıdır.
+Callback, Bir işlemin tamamlanmasından sonra çağrılan fonksiyondur.
+Promise, Gelecekteki bir işlemin sonucunu temsil eden yapıdır.
+Event Loop, JavaScript'in asenkron kodları işleme mekanizmasıdır.
+Race Condition, İşlemlerin sırasız çalışması sonucu oluşan hata durumudur.
+Deadlock (Kilitlenme), İki işlemin birbirini bekleyerek ilerleyememesi durumudur.
+Semaphore, İşlem erişimlerini kontrol eden eşzamanlılık aracıdır.
+Queue (Kuyruk), İlk giren ilk çıkar mantığıyla çalışan veri yapısıdır.
+Stack (Yığın), Son giren ilk çıkar prensibiyle çalışan veri yapısıdır.
+Tree (Ağaç), Hiyerarşik veri yapılarından biridir.
+Graph (Graf), Düğümler ve kenarlarla ilişkileri gösteren veri yapısıdır.
+Linked List, Her elemanın bir sonrakine bağlandığı veri yapısıdır.
+Hash Table, Anahtar-değer eşleşmeleri ile veri saklayan yapıdır.
+Big O Notation, Algoritmaların performansını ifade eden matematiksel gösterimdir.
+Recursion (Özyineleme), Bir fonksiyonun kendini çağırmasıdır.
+Cloud Storage (Bulut Depolama), Verilerin internet üzerinden uzak sunucularda saklanmasıdır.
+Load Balancing (Yük Dengeleme), Trafiği birden fazla sunucuya dağıtarak sistemin daha verimli çalışmasını sağlar.
+CDN (Content Delivery Network), İçeriğin daha hızlı yüklenmesi için veri merkezleri arasında dağıtılmasını sağlayan ağdır.
+Serverless Computing (Sunucusuz Bilişim), Kullanıcıların sunucu yönetimi yapmadan uygulama geliştirmesini sağlayan bulut hizmetidir.
+Edge Computing (Kenar Bilişim), Verilerin kaynağa yakın yerlerde işlenmesidir- böylece gecikmeler azaltılır.
+API Gateway, Birden fazla servisi yöneten ve birleştiren arayüzdür.
+Data Lake (Veri Gölü), Yapısal ve yapısal olmayan verilerin depolandığı büyük veri sistemidir.
+Data Warehouse (Veri Ambarı), Büyük hacimli verilerin depolandığı merkezi veri havuzudur.
+Data Lakehouse (Veri Gölü Evi), Veri gölü ve veri ambarı özelliklerini birleştiren yeni nesil veri yönetim sistemidir.
+Blockchain, Merkezi olmayan- şifreli ve dağıtık veri saklama teknolojisidir.
+Cryptocurrency (Kripto Para), Dijital olarak şifrelenmiş para birimidir- merkeziyetsizdir.
+Smart Contract (Akıllı Sözleşme), Kendi kendine yürütülen- blok zinciri üzerinde çalışan programlardır.
+Cryptocurrency Mining (Kripto Para Madenciliği), Yeni kripto paralar üretmek için yapılan hesaplama işlemleri.
+Ethereum, Akıllı sözleşmeleri çalıştırmak için kullanılan bir blok zinciri platformudur.
+Bitcoin, İlk dijital ve merkeziyetsiz para birimidir.
+DApp (Decentralized Application), Merkezi olmayan ağlar üzerinde çalışan uygulamalardır.
+Proof of Work (İş Kanıtı), Blok zincirindeki işlemleri onaylamak için yapılan hesaplama işidir.
+Proof of Stake (Hisse Kanıtı), Kripto para madenciliği için hisse sahipliği temelli doğrulama sistemidir.
+Tokenomics, Kripto para birimlerinin ekonomik modellerini inceleyen disiplindir.
+Staking, Kripto paralarda belirli bir süre boyunca varlıkların tutulması işlemiyle ödül kazanma.
+Virtual Reality (Sanal Gerçeklik), Kullanıcıyı gerçek dünya dışındaki bir ortama sokan teknolojidir.
+Augmented Reality (Arttırılmış Gerçeklik), Gerçek dünyaya sanal öğelerin eklenmesi teknolojisidir.
+Mixed Reality (Karışık Gerçeklik), Sanal gerçeklik ve artırılmış gerçeklik birleşimidir.
+VR Headset (Sanal Gerçeklik Başlığı), Sanal gerçeklik deneyimini sağlamak için takılan başlık.
+AR Glasses (Artırılmış Gerçeklik Gözlükleri), Artırılmış gerçeklik teknolojisini kullanarak sanal öğeleri gösteren gözlükler.
+3D Modeling (3D Modelleme), Üç boyutlu nesnelerin dijital ortamda oluşturulması işlemidir.
+3D Rendering (3D Görselleştirme), 3D modellerin görsel hale getirilmesi işlemidir.
+Motion Capture (Hareket Takibi), Gerçek dünyadaki hareketlerin dijital ortama aktarılması teknolojisidir.
+Deepfake, Yapay zeka kullanarak gerçek görüntüleri taklit eden medya içerikleridir.
+Digital Twin (Dijital İkiz), Fiziksel bir varlığın dijital kopyasının oluşturulmasıdır.
+WebRTC (Web Real-Time Communication), Tarayıcılar arasında gerçek zamanlı ses- video ve veri iletişimi sağlayan protokoldür.
+WebSocket, Web üzerinde sürekli ve çift yönlü iletişim sağlayan protokoldür.
+NoSQL Database (NoSQL Veritabanı), İlişkisel olmayan- esnek veri yapıları kullanan veritabanıdır.
+MongoDB, NoSQL veritabanı sistemlerinden biridir- genellikle JSON formatında veri saklar.
+Redis, Bellek içi veri yapıları ile yüksek performanslı veri yönetimi sağlayan NoSQL veritabanıdır.
+Elasticsearch, Veri arama ve analiz için kullanılan NoSQL tabanlı- dağıtık bir arama motorudur.
+Hadoop, Büyük veri işleme için kullanılan- açık kaynaklı dağıtık dosya sistemidir.
+Apache Spark, Hızlı veri işleme ve analiz yapabilen açık kaynaklı bir platformdur.
+Kubernetes, Konteyner yönetimi ve orkestrasyonu sağlayan açık kaynaklı bir platformdur.
+Docker Swarm, Docker konteynerlerinin yönetimi ve orkestrasyonu için kullanılan platformdur.
+Microservices Architecture (Mikro Hizmet Mimarisi), Yazılımın küçük- bağımsız hizmetlere bölünerek yönetilmesi modelidir.
+Serverless Architecture (Sunucusuz Mimari), Sunucu altyapısı ile ilgilenmeden uygulama geliştirmeyi mümkün kılar.
+REST API (Representational State Transfer), İnternette veri transferi sağlayan bir API mimarisidir.
+SOAP API (Simple Object Access Protocol), XML tabanlı ve daha sıkı kurallara sahip bir web servis protokolüdür.
+GraphQL API, Sorgularla veriyi esnek bir şekilde almak için kullanılan API türüdür.
+JSON-RPC, JSON formatı üzerinden veri iletmek için kullanılan uzaktan prosedür çağrısı protokolüdür.
+XML-RPC, XML formatı üzerinden uzak sunucularla iletişim kurmak için kullanılan protokoldür.
+API Rate Limiting, API'lere yapılacak isteklerin sınırlanmasıdır.
+API Key, API kullanımını güvenli hale getiren- kullanıcıyı tanımlayan anahtardır.
+OAuth, Kullanıcıların kimlik doğrulama yaparken üçüncü taraf uygulamalarına yetki vermesini sağlayan protokoldür.
+Dependency Management (Bağımlılık Yönetimi), Yazılımda kullanılan dış kütüphanelerin ve araçların yönetilmesidir.
+Package Manager (Paket Yöneticisi), Yazılım bileşenlerinin kurulumu ve yönetimini sağlayan araçtır.
+Virtual Environment (Sanal Ortam), Python gibi dillerde- bağımlılıkların farklı projelerde izole edilmesini sağlayan ortamdır.
+NPM (Node Package Manager), Node.js için paketlerin yönetilmesini sağlayan araçtır.
+Composer, PHP için paket yönetimi sağlayan araçtır.
+Maven, Java projelerinde bağımlılık yönetimi ve yapı oluşturma aracıdır.
+Gradle, Yazılım projelerinde yapılandırma- bağımlılık yönetimi ve derleme işlemleri için kullanılan araçtır.
+GitFlow, Git üzerinde yazılım geliştirme sürecini organize etmek için kullanılan dal yönetim modelidir.
+Fork, Bir proje üzerinde bağımsız değişiklikler yapabilmek için o projeyi kopyalamaktır.
+Pull Request (PR), Bir yazılım değişikliğinin bir ana depoya dahil edilmesi için yapılan istektir.
+Merge, Farklı geliştirme dallarındaki değişiklikleri birleştirme işlemidir.
+Conflict Resolution (Çatışma Çözümü), Kod üzerinde yapılan iki farklı değişikliğin çakışması durumunda çözüm sürecidir.
+Branching, Yazılım geliştirmede farklı özelliklerin paralel olarak geliştirilmesini sağlayan yöntemdir.
+Trunk (Ana Dal), Bir yazılımın ana geliştirme dalıdır.
+Tag, Yazılımda belirli bir versiyona işaret eden işaretçidir.
+Version Control System (Sürüm Kontrol Sistemi), Kod değişikliklerinin izlenmesi ve yönetilmesini sağlayan sistemdir.
+GitHub Actions, GitHub üzerinde otomatik iş akışları oluşturmak için kullanılan araçtır.
+Jenkins Pipeline, Yazılım geliştirme süreçlerinde otomatikleştirilmiş iş akışlarını tanımlar.
+Bitbucket Pipelines, Bitbucket üzerinde sürekli entegrasyon ve teslimat için kullanılan platformdur.
+CircleCI, Yazılım geliştirme süreçlerinde sürekli entegrasyon ve teslimat sağlamak için kullanılan bir araçtır.
+Travis CI, GitHub projelerinde sürekli entegrasyon için kullanılan platformdur.
+Code Review (Kod İncelemesi), Yazılımcıların yazdıkları kodları birbirlerine incelettikleri süreçtir.
+Code Refactoring (Kod Yeniden Yapılandırma), Kodun dış işlevselliğini değiştirmeden daha verimli hale getirilmesidir.
+Code Linter (Kod Linter), Kodun belirli kurallara göre hatalarını tespit eden araçtır.
+Continuous Testing (Sürekli Test), Yazılım geliştirme sürecinde testlerin otomatik ve sürekli yapılmasıdır.
+Test Automation (Test Otomasyonu), Yazılımın test edilmesinin otomatik hale getirilmesidir.
+Unit Test (Birim Testi), Yazılımın en küçük birimlerinin test edilmesidir.
+Integration Test (Entegrasyon Testi), Farklı yazılım bileşenlerinin birlikte çalışıp çalışmadığının test edilmesidir.
+Acceptance Test (Kabul Testi), Yazılımın belirlenen gereksinimlere uygun olup olmadığının test edilmesidir.
+Regression Test (Geriye Dönük Test), Yeni eklemelerin veya değişikliklerin eski işlevselliği bozup bozmadığını test etmektir.
+Load Testing (Yük Testi), Uygulamanın belirli bir yük altında nasıl davrandığını test etmektir.
+Stress Testing (Stres Testi), Uygulamanın aşırı yük altında dayanıklılığını test etmektir.
+Performance Testing (Performans Testi), Uygulamanın hız- verimlilik ve tepki süresi gibi performans parametrelerini test etmektir.
+Security Testing (Güvenlik Testi), Yazılımın güvenlik açıklarını belirlemeye yönelik yapılan testlerdir.
+Penetration Testing (Sızma Testi), Sistem güvenliğini test etmek için yapılan saldırı simülasyonudur.
+Usability Testing (Kullanılabilirlik Testi), Yazılımın kullanıcı dostu olup olmadığının test edilmesidir.
+Alpha Testing (Alfa Testi), Yazılım geliştirme sürecinde iç testlerdir- kullanıcılar tarafından yapılır.
+Beta Testing (Beta Testi), Yazılımın dış kullanıcılar tarafından test edilmesidir.
+Canary Testing, Yeni sürümün sınırlı sayıda kullanıcıyla test edilmesidir.
+User Story (Kullanıcı Hikayesi), Yazılımın kullanıcılarının ihtiyaçlarına dayalı işlevsel gereksinimlerin tanımlanmasıdır.
+Task Board (Görev Panosu), Yazılım geliştirme sürecindeki görevlerin görsel olarak yönetildiği platformdur.
+Kanban, Sürekli iş akışı sağlayan görsel görev yönetim aracıdır.
+Scrum Board, Scrum metodolojisiyle çalışan takımların görevlerini takip ettiği araçtır.
+Burn Down Chart (Yanma Grafiği), Projelerin zaman içindeki ilerlemesini gösteren grafiksel temsilidir.
+Agile Manifesto (Çevik Manifesto), Çevik yazılım geliştirme sürecini tanımlayan ilkeler bütünüdür.
+Scrum Master, Scrum sürecinde takımın doğru şekilde çalışmasını sağlayan kişidir.
+Product Owner (Ürün Sahibi), Yazılım ürününün gereksinimlerini belirleyen ve önceliklendiren kişidir.
+User Acceptance Testing (Kullanıcı Kabul Testi), Kullanıcıların yazılımın gereksinimlere uygunluğunu test etmeleridir.
+Sprint, Scrum metodolojisinde belirli bir süre içinde yapılacak işlerin planlandığı dönemdir.
+Iteration (Dönem), Çevik yazılım geliştirmede sürekli olarak yapılan geliştirme döngüsüdür.
+Algorithm (Algoritma), Belirli bir problemi çözmek için izlenen adımlar dizisidir.
+Framework (Çerçeve), Yazılım geliştirmeyi kolaylaştıran- belirli bir amaca yönelik araçlar ve kütüphaneler bütünüdür.
+Debugging (Hata Ayıklama), Yazılımdaki hataların tespit edilip düzeltilmesi işlemidir.
+Compiler (Derleyici), Kaynak kodu makine diline çeviren yazılım aracıdır.
+Interpreter (Yorumlayıcı), Kaynak kodu satır satır işleyip çalıştıran yazılım aracıdır.
+IDE (Integrated Development Environment - Entegre Geliştirme Ortamı), Yazılım geliştirme sürecini kolaylaştıran- metin düzenleyici- derleyici ve hata ayıklama araçları sunan ortamdır.
+Git (Version Control), Kaynak kodunun sürümlerini yönetmeye yarayan popüler bir sistemdir.
+Repository (Depo), Git gibi sürüm kontrol sistemlerinde- yazılım projelerinin saklandığı ve yönetildiği depodur.
+HTTP (Hypertext Transfer Protocol - Hipermetin Transfer Protokolü), İnternet üzerindeki verilerin iletimini sağlayan protokoldür.
+HTTPS (Hypertext Transfer Protocol Secure - Güvenli Hipermetin Transfer Protokolü), Web üzerindeki veri iletimini şifreleyen güvenli protokoldür.
+DNS (Domain Name System - Alan Adı Sistemi), İnternet üzerindeki alan adlarını IP adreslerine dönüştüren sistemdir.
+SSL/TLS (Secure Sockets Layer / Transport Layer Security - Güvenli Soket Katmanı / Taşıma Katmanı Güvenliği), İnternette veri iletimini şifreleyen güvenlik protokolleridir.
+URL (Uniform Resource Locator - Birleşik Kaynak Konumlandırıcı), İnternetteki bir kaynağın adresini tanımlar.
+Web Browser (Web Tarayıcısı), İnternetteki sayfaları görüntülemek için kullanılan yazılımdır.
+Front-End (Ön Yüz), Web uygulamalarının kullanıcıyla etkileşimde bulunduğu arayüz kısmıdır.
+Back-End (Arka Yüz), Web uygulamalarının veritabanı ve sunucu tarafını kapsayan kısmıdır.
+Full Stack Developer (Tam Yığın Geliştirici), Hem ön yüz hem de arka yüz geliştirmelerini yapabilen yazılım geliştiricisidir.
+HTTP Request (HTTP İsteği), Web sunucusundan veri almak için yapılan istektir.
+Cookie (Çerez), Web tarayıcısında kullanıcının bilgilerini saklayan küçük veri parçalarıdır.
+Session (Oturum), Web uygulamalarında kullanıcının geçici olarak oturum açtığı süreyi tanımlar.
+Cache (Önbellek), Sık erişilen verilerin geçici olarak saklandığı hızlı erişim alanıdır.
+CDN (Content Delivery Network - İçerik Dağıtım Ağı), İçeriğin farklı sunucularda dağıtılmasını sağlayarak yükleme sürelerini kısaltan ağdır.
+SQL (Structured Query Language - Yapısal Sorgulama Dili), Veritabanlarından veri almak- eklemek ve yönetmek için kullanılan sorgulama dilidir.
+NoSQL, Yapısal olmayan verilerin depolanmasında kullanılan- genellikle esnek veri modeline sahip veritabanlarıdır.
+RDBMS (Relational Database Management System - İlişkisel Veritabanı Yönetim Sistemi), Veritabanlarının yönetimi için kullanılan ilişkisel model bazlı sistemdir.
+Schema (Şema), Veritabanındaki tabloların yapısını ve ilişkilerini tanımlar.
+Indexing (İndeksleme), Veritabanındaki verilerin hızlı bir şekilde erişilebilmesi için yapılan yapılandırmadır.
+Normalization (Normalizasyon), Veritabanı yapısını düzenleyerek veritabanındaki veri tekrarını azaltma işlemidir.
+Joins (Birleştirme), Birden fazla veritabanı tablosunun birleştirilmesidir.
+Foreign Key (Yabancı Anahtar), İlişkisel veritabanlarında iki tabloyu birbirine bağlayan alandır.
+Trigger (Tetikleyici), Veritabanı işlemleri sırasında otomatik olarak çalışan SQL komutlarıdır.
+Transaction (İşlem), Veritabanında yapılan ve bütünlüğünü koruyan işlem birimidir.
+Backup (Yedekleme), Verilerin kaybolmaması için düzenli olarak kopyalanması işlemidir.
+Recovery (Kurtarma), Veritabanı veya sistem arızası sonrası verilerin eski haline getirilmesidir.
+Cloud Computing (Bulut Bilişim), Verilerin internet üzerindeki uzak sunucularda işlenmesi ve saklanmasıdır.
+SaaS (Software as a Service - Hizmet Olarak Yazılım), Yazılımın internet üzerinden bir hizmet olarak sunulmasıdır.
+IaaS (Infrastructure as a Service - Hizmet Olarak Altyapı), Altyapı hizmetlerinin internet üzerinden sunulmasıdır.
+PaaS (Platform as a Service - Hizmet Olarak Platform), Geliştiricilere uygulama geliştirme ve dağıtım için gereken platform hizmetlerinin sunulmasıdır.
+Containerization (Konteynerleştirme), Uygulamaların bağımsız olarak çalışabilmesi için sanallaştırılmasını sağlayan bir yöntemdir.
+Docker, Yazılım konteynerlerini oluşturmak ve yönetmek için kullanılan açık kaynaklı bir platformdur.-
+Kubernetes, Konteynerlerin yönetimi ve orkestrasyonu için kullanılan açık kaynaklı bir platformdur.
+Microservices (Mikro Hizmetler), Büyük uygulamaların küçük- bağımsız ve modüler parçalara ayrılması yaklaşımıdır.
+REST (Representational State Transfer - Temsili Durum Transferi), Web servislerinin basit ve ölçeklenebilir bir şekilde iletişim kurmasını sağlayan bir mimaridir.
+SOAP (Simple Object Access Protocol - Basit Nesne Erişim Protokolü), XML tabanlı bir web servis protokolüdür.
+API (Application Programming Interface - Uygulama Programlama Arayüzü), Uygulamalar arasında veri ve işlev paylaşımını sağlayan arayüzdür.
+OAuth, Kullanıcıların verilerine üçüncü parti uygulamalar üzerinden güvenli erişimi sağlayan protokoldür.
+JSON (JavaScript Object Notation), Veri alışverişi için kullanılan-hafif ve kolay okunabilir veri formatıdır.
+XML (Extensible Markup Language , Genişletilebilir İşaretleme Dili)- Veri alışverişi için kullanılan- etiketli bir veri formatıdır.
+JWT (JSON Web Token), Kimlik doğrulama ve veri güvenliği için kullanılan bir token türüdür.
+Rate Limiting (İstek Limitleme), Bir API veya web sunucusuna yapılabilecek isteklerin sayısını sınırlamadır.
+def,	Python'da fonksiyon tanımlamak için kullanılır.
+lambda,	Python'da anonim fonksiyon oluşturmak için kullanılır.
+try-except,	Python'da hata yakalamak için kullanılır.
+public,	Java’da bir öğeye herkesin erişebileceğini belirtir.
+class,	Java’da sınıf tanımı yapmak için kullanılır.
+private,	Java’da bir öğeye sadece sınıf içinden erişilebileceğini belirtir.
+try-catch-finally,	Java’da hata yönetimi ve temizlik işlemleri için kullanılır.
+String,	Java'da karakter dizilerini temsil eden veri türü.
+API,Uygulamalar arasında veri alışverişini sağlayan arabirimdir.
+Flask,Python ile yazılmış mikro web framework’tür.
+render_template,Flask'ta HTML şablonlarını sunmak için kullanılır.
+request,Kullanıcının yaptığı HTTP isteğini temsil eder.
+pandas,Veri analizi ve işleme için kullanılan Python kütüphanesidir.
+tensorflow,Yapay zeka ve makine öğrenimi modelleri oluşturmak için kullanılan açık kaynak kütüphanedir.
+pickle,Python nesnelerini serileştirmek ve kaydetmek için kullanılır.
+sequence,Sıralı veri yapısıdır; genelde dizilerle ilişkilidir.
+pad_sequences,Farklı uzunluktaki dizileri aynı uzunlukta hale getiren fonksiyondur.
+string,Pythonda metin verisiyle çalışmayı sağlayan yerleşik modüldür.
+GoogleTranslator,deep_translator modülünden gelen çeviri aracıdır.
+text_model.h5,Eğitilmiş derin öğrenme modelinin HDF5 formatındaki dosyasıdır.
+tokenizer,Kelimeleri sayılara dönüştüren makine öğrenimi aracıdır.
+lower,Metni küçük harflere dönüştürür.
+split,Metni boşluklardan bölerek liste haline getirir.
+strip,Başındaki ve sonundaki boşluk veya özel karakterleri temizler.
+punctuation,Noktalama işaretlerini içeren karakter kümesidir.
+values,Pandas veri çerçevesinden sadece verileri döndürür.
+app.route,Flask’ta URL yönlendirmesi için kullanılır.
+methods,HTTP istek türlerini belirtir (örneğin GET-POST).
+GET,Sunucudan veri isteme metodudur.
+POST,Sunucuya veri gönderme metodudur.
+form,Kullanıcı tarafından gönderilen HTML form verilerini alır.
+ceviri_istegi,Kullanıcı çeviri isteğinde bulunmuş mu kontrol eder.
+bulunanlar,Eşleşen kelimeleri ve açıklamaları tutan listedir.
+dogruluk_toplam,Doğru tahminlerin güven puanlarının toplamıdır.
+dogru_sayisi,Yazılım terimi olarak doğru tahmin edilen kelime sayısıdır.
+kelime_temiz,Kelimenin özel karakterlerden arındırılmış halidir.
+negatif_df,Yazılım terimi olmayan kelimeleri içeren veri çerçevesidir.
+in,Pythonda bir öğenin listede olup olmadığını kontrol eder.
+continue,Döngüdeki geçerli yinelemeyi atlar.
+texts_to_sequences,Kelimeleri sayı dizilerine çevirir.
+if not,Koşul sağlanmadığında işlemi durdurur.
+model.predict,Yapay zeka modeliyle tahmin yapılır.
+verbose,Model çalışırken detaylı çıktı verip vermeyeceğini belirler.
+[0][0],Tahmin sonucundaki ilk skoru alır.
+input_shape,Modelin girdi boyutunu belirtir.
+tahmin,Tahmin edilen olasılık değeridir.
+> 0.5,Yazılım terimi olup olmadığını belirlemek için eşik değeridir.
+aciklama,Kelimelerin anlamını açıklayan metindir.
+try,Hata oluşabilecek kod bloklarını sarmalar.
+except,Hata oluştuğunda yapılacak işlemleri tanımlar.
+Exception,Genel hata sınıfıdır.
+bulunanlar.append,Sonuç listesinin sonuna yeni öğe ekler.
+render_template("index.html"),HTML şablonunu geri döndürür.
+debug=False,Geliştirici modunu kapatır.
+__name__ == "__main__",Dosya doğrudan çalıştırıldığında ana uygulamayı başlatır.
+csv,Verileri virgülle ayrılmış değerler halinde tutan dosya formatıdır.
+read_csv,CSV dosyasını okuyup veri çerçevesine dönüştürür.
+str.lower(),Metni küçük harflere dönüştürür.
+str.strip(),Metnin başındaki ve sonundaki boşlukları temizler.
+@staticmethod,Sınıf örneğine ihtiyaç duymayan metod tanımıdır.
+HTML,Web sayfalarının yapılandırıldığı işaretleme dilidir.
+index.html,Flask’ta ana sayfayı temsil eden HTML dosyasıdır.
+deeplearning,Katmanlı yapılarla öğrenme sağlayan yapay zeka yaklaşımıdır.
+natural language processing,İnsan dilini bilgisayarların anlamasını sağlayan teknoloji alanıdır.
+HTTP,Bir istemci ile sunucu arasında veri iletişimini sağlayan protokoldür.
+Form input,Kullanıcıdan veri alınan HTML bileşenidir.
+strip(string.punctuation),Metinden noktalama işaretlerini temizler.
+sequence padding,Dizi uzunluklarını eşitleme işlemidir.
+model yükleme,Kayıtlı modelin belleğe alınması sürecidir.
+serileştirme,Nesneleri dosyaya kaydedilebilir hale getirme işlemidir.
+çift tırnak string,Python'da metinleri belirtmek için kullanılır.
+request.form["metin"],Formdan gelen metin girdisini alır.
+boolean,Yalnızca True veya False değeri alabilen veri türüdür.
+if request.method == "POST",Formun gönderilip gönderilmediğini kontrol eder.
+çeviri,Metni bir dilden başka bir dile dönüştürme işlemidir.
+GoogleTranslator.translate,Kelimeyi belirtilen dile çevirir.
+return,Python fonksiyonlarında geri dönüş sağlar.
+continue,İlgili döngünün bir sonraki iterasyonuna geçer.
+try-except,Hataları yakalayıp çözüme yönlendirme yapısıdır.
+seq,Modelin giriş olarak kullandığı sıralı sayı verisidir.
+verbose=0,Tahmin sırasında çıktı bastırma seçeneğidir.
+append,Listeye yeni öğe ekler.
+maxlen=,Maksimum uzunluk sınırı belirler.
+input_shape[1],Modelin giriş katmanındaki özellik sayısıdır.
+"translate" in request.form,Formdan çeviri isteği olup olmadığını kontrol eder.
+çift eşittir (==),Karşılaştırma operatörüdür.
+for döngüsü,Bir liste veya dizide yineleme yapmak için kullanılır.
+metin.split(),Metni boşluk karakterlerine göre ayırır.
+model.predict(seq),Verilen girişe göre tahmin yapan komut.
+çerçeve,Verilerin satır ve sütun formatında tutulduğu yapı.
+values[0],Veri çerçevesinden ilk değeri alır.
+input("..."),Kullanıcıdan giriş almak için kullanılır (CLI'de).
+Yapay Zeka,Veriyle öğrenip karar verebilen algoritmalar bütünüdür.
+Yazılım Terimi,Genellikle yazılım geliştirmeye özgü kavramlardır.
+Makine Öğrenimi,Verilerden örüntüleri öğrenen algoritmalardır.
+Veri Kümesi,Eğitim veya test için kullanılan veri topluluğudur.
+Model Doğruluğu,Bir modelin tahminlerinin doğruluk oranıdır.
+Veri Ön İşleme,Ham verilerin analiz öncesi temizlenmesidir.
+Eşik Değeri,Tahminin sınıflandırılmasını belirleyen sınırdır.
+Başlık etiketi,HTML’de `<h1>` gibi başlık oluşturan etiketlerdir.
+Kodlama Dili,Bilgisayarla iletişim kurmayı sağlayan yapay dildir.
+Eğitim Verisi,Modelin öğrenmesi için kullanılan veridir.
+Tahmin,Modelin girdi verisine göre çıktısını üretmesi.
+Index Route,Web uygulamasının ana sayfa yönlendirmesidir.
+Yönlendirme,Web uygulamasında URL’leri işlevlerle eşleştirme işlemidir.
+Model dosyası,Eğitilmiş yapay zeka modelinin kaydedildiği dosyadır.
+Preprocessing,Verileri model eğitimine hazırlamak için yapılan işlemlerdir.
+Tokenizer,Kelimeleri sayılara dönüştüren dönüştürücü nesnedir.
+HDF5,Yüksek performanslı veri saklama formatıdır.
+Eğitim,Tahmin modeli oluşturmak için verilerle yapılan öğrenme sürecidir.
+Tahmin fonksiyonu,Modelin yeni girdilere karşılık verdiği yöntemdir.
+Veri temizleme,Hatalı eksik ya da gereksiz verilerin ayıklanmasıdır.
+Sayısallaştırma,Metinlerin sayısal forma dönüştürülmesidir.
+Web sunucusu,Kullanıcılardan gelen HTTP isteklerine yanıt veren yazılımdır.
+HTML şablonu,Dinamik içerik üretmek için kullanılan HTML yapısıdır.
+Veri çerçevesi,Satır ve sütunlardan oluşan tablo benzeri yapı.
+Serileştirme,Verilerin dosyaya dönüştürülmesi ve yeniden okunabilir hale getirilmesidir.
+Liste,Python'da veri saklamak için kullanılan diziler.
+Veri tipi,Bir değişkenin hangi türde bilgi tuttuğunu gösterir.
+Yorum satırı,Kodda açıklama eklemek için kullanılan satırdır.
+Kullanıcı girdisi,Kullanıcının uygulamaya sağladığı veridir.
+Çeviri işlemi,Bir metnin başka bir dile çevrilmesidir.
+Tahmin sonucu,Modelin verdiği olasılık değeri ya da sınıf.
+HTTP methodları,Web'de veri alışverişinde kullanılan işlemler (GET- POST vb).
+CSV okuma,Pandas ile veri dosyasını belleğe alma işlemidir.
+Veri sütunu,Veri çerçevesinde dikey bilgi dizisi.
+Veri satırı,Veri çerçevesinde yatay bilgi dizisi.
+Anahtar kelime,Programlama dilinde özel anlam taşıyan kelimeler.
+Web arayüzü,Kullanıcının uygulamayla etkileşimde bulunduğu yüzey.
+Düğme,HTML’de tıklanabilir arayüz bileşenidir.
+Form gönderimi,Kullanıcının giriş yaptığı veriyi sunucuya iletmesidir.
+Veri doğrulama,Gelen verilerin geçerliliğini kontrol etme işlemidir.
+Boole kontrol,True/False değerine göre işlem yürütmedir.
+Model puanı,Modelin tahmine verdiği olasılık değeri.
+HTTP isteği,Web istemcilerinin yaptığı veri çağrısıdır.
+HTTP yanıtı,Sunucudan istemciye dönen cevaptır.
+Sunucu tarafı kodlama,Kodun sunucuda çalıştığı yazılım geliştirme biçimidir.
+İstemci tarafı kodlama,Tarayıcıda çalışan kodlama (JavaScript vb.).
+Hata yakalama,Bir kod bloğunda hata olursa onu yönetme sürecidir.
+Global değişken,Tüm fonksiyonlarda erişilebilen değişkendir.
+Yerel değişken,Yalnızca tanımlandığı fonksiyonda geçerli olan değişkendir.
+Yol yönlendirme,Flask’ta URL’lere işlev atama tekniğidir.
+Form alanı,HTML formunda veri girilen bölüm.
+Response nesnesi,Flask’ta HTTP yanıtını temsil eden yapı.
+Kod satırı,Bir programın tek bir işlem adımıdır.
+Kod bloğu,Birden fazla satırdan oluşan işlem grubu.
+Veri akışı,Verilerin uygulama içinde izlediği yol.
+Dosya uzantısı,Bir dosyanın türünü gösteren sonek (.csv- .h5).
+İşaretçi,Pythonda bir dosyayı veya nesneyi işaret eden yapı.
+Sınıflandırma,Tahmin problemlerinde verilerin kategoriye ayrılmasıdır.
+Yorumlu kod,Geliştirici notları içeren açıklamalı kod bölümleri.
+Debug mod,Geliştirme sırasında hata ayıklamayı kolaylaştıran moddur.
+Ana fonksiyon,Programın çalışmasını başlatan kod parçası.
+Yönlendirme fonksiyonu,URL ile çağrıldığında çalışan fonksiyondur.
+Çok dilli destek,Çeviri veya çoklu dil kullanılabilen uygulama özelliği.
+Duyarlılık,Modelin doğru pozitifleri bulma yeteneğidir.
+Özgüllük,Modelin doğru negatifleri ayırma yeteneğidir.
+Giriş verisi,Modelin analiz etmesi için aldığı bilgi.
+Çıkış verisi,Modelin ürettiği tahmin sonucu.
+Kaynak kod,Programın geliştirici tarafından yazılmış ham hali.
+Kod derleyici,Kodu çalıştırılabilir hale getiren program.
+Yardımcı fonksiyon,Karmaşık işlemleri basitleştirmek için yazılan küçük fonksiyonlardır.
+Noktalama temizliği,Noktalama işaretlerinin metinden çıkarılmasıdır.
+Kod okunabilirliği,Kodun başka geliştiriciler tarafından kolay anlaşılmasıdır.
+Birim test,Her fonksiyonun ayrı ayrı test edilmesi yöntemidir.
+Veri standardizasyonu,Farklı verilerin aynı formata getirilmesidir.
+Tamsayı,Ondalıklı olmayan sayılardır (örnek: 42).
+Ondalık sayı,Virgüllü sayılardır (örnek: 3.14).
+Negatif kelime,Yazılım terimi olmayan ya da olumsuz içerikli kelimedir.
+Pozitif kelime,Yazılım alanında olumlu veya geçerli kabul edilen terimlerdir.
+Dinamik sayfa,İçeriği kullanıcıya göre değişen web sayfasıdır.
+Statik sayfa,Sabit içeriğe sahip web sayfasıdır.
+Veri analizi,Veriler üzerinde inceleme ve sonuç çıkarma sürecidir.
+Kod bağımlılığı,Bir kod parçasının başka bir parçaya ihtiyaç duymasıdır.
+Boşluk karakteri,Yazıda görünmeyen ama ayrım oluşturan karakter (space).
+Koşullu ifade,Şartlara göre çalışan kod yapısıdır.
+Karar yapısı,Koşullar altında çalışan kontrol akışlarıdır.
+Veri görselleştirme,Verileri grafikle ifade etme işlemidir.
+Dizileme,Kelimelerin sıraya sokularak işlendiği yapıdır.
+Web uygulaması,Tarayıcı üzerinden erişilebilen yazılım sistemidir.
+Tarayıcı,Web sayfalarını görüntülemek için kullanılan yazılımdır.
+İstemci-sunucu modeli,Veri alışverişini sağlayan sistem yapısıdır.
+Sözlük yapısı,Anahtar-değer çiftlerini tutan Python veri yapısıdır.
+Listeleme,Veri kümesinin elemanlarını sıralama işlemidir.
+Boş liste,İçinde veri bulunmayan Python listesi.
+Veri seçimi,Veri kümesinden belirli öğeleri alma işlemi.
+if-else yapısı,Şarta göre iki farklı kod bloğu arasında geçiş yapılmasını sağlar.
+İndeksleme,Veri kümesinde belirli elemanlara ulaşmak için kullanılır.
+Kapsam,Yerel ya da global değişkenin nerede geçerli olduğunu belirler.
+Çalışma zamanı,Programın çalıştığı süre zarfıdır.
+Bellek,Geçici verilerin saklandığı donanım alanıdır.
+Veri kümesi dosyası,Eğitim ve test verilerini tutan dosyadır.
+Tür dönüşümü,Bir veri tipini başka bir tipe çevirme işlemidir.
+Kod tekrarı,Aynı kod bloklarının birden fazla yerde yazılmasıdır.
+Yazılım mühendisliği,Yazılımın sistemli biçimde geliştirilmesidir.
+Veri tutarlılığı,Verilerin mantıklı ve doğru olması durumu.
+Giriş kontrolü,Kullanıcıdan alınan verinin geçerliliğini denetleme.
+Bağımsız değişken,Modelde girdiyi temsil eden değişkendir.
+Bağımlı değişken,Modelde sonucu temsil eden değişkendir.
+Parametre,Fonksiyonlara dışarıdan verilen girişlerdir.
+Dönüt,Modelin verdiği sonucun uygulama tarafından ele alınışı.
+Eşik ayarı,Modelin 0-1 arası tahminlerinde sınıf belirleme sınırıdır.
+Gerçek pozitif,Modelin doğru şekilde olumlu tahmin yaptığı durumdur.
+Yanlış pozitif,Modelin yanlış şekilde olumlu tahmin yaptığı durumdur.
+Gerçek negatif,Modelin doğru şekilde olumsuz tahmin yaptığı durumdur.
+Yanlış negatif,Modelin yanlış şekilde olumsuz tahmin yaptığı durumdur.
+Veri seti,Modelin eğitildiği ya da test edildiği veri topluluğudur.
+Test verisi,Eğitilmiş modelin doğruluğunun ölçüldüğü veri grubudur.
+Eğitim verisi,Modelin öğrenmesini sağladığı veri grubudur.
+Çok sınıflı sınıflandırma,Üçten fazla kategoriye ayrılan veri sınıflandırma türüdür.
+İkili sınıflandırma,Yalnızca iki sınıfa ayrılan tahmin modeli türüdür.
+Epoch,Bir veri kümesinin model tarafından tamamen taranma sayısıdır.
+Batch size,Her eğitim adımında kullanılan veri örneği sayısıdır.
+Doğruluk oranı,Modelin doğru tahminlerinin tüm tahminlere oranıdır.
+Kayıp fonksiyonu,Modelin ne kadar hata yaptığını hesaplayan formüldür.
+Optimizasyon,Modelin hatasını en aza indirmek için yapılan işlemler bütünüdür.
+Aktivasyon fonksiyonu,Sinir ağında çıktı üreten matematiksel fonksiyondur.
+Softmax,Çok sınıflı sınıflandırmada her sınıfa olasılık veren fonksiyondur.
+Sigmoid,Çıktıyı 0 ile 1 arasında sınırlandıran aktivasyon fonksiyonudur.
+Katman,Yapay sinir ağlarında birden çok nöronun birleşimidir.
+Giriş katmanı,Modelin aldığı verilerin ilk işlendiği kısımdır.
+Çıkış katmanı,Modelin sonucu verdiği en son katmandır.
+Gizli katman,Modelin iç hesaplamalarının yapıldığı katmandır.
+Ağırlıklar,Modelin girişleri çarparak sonucu etkileyen değerlerdir.
+Özellik çıkarımı,Veriden anlamlı öğelerin seçilmesidir.
+Etiket,Veriye ait sınıf bilgisidir (örneğin: spam- yazılım terimi).
+Doğrulama kümesi,Eğitim esnasında modelin ayarlanmasında kullanılan veri grubudur.
+Overfitting,Modelin eğitildiği verilere aşırı uyum sağlaması durumudur.
+Underfitting,Modelin yeterince öğrenemediği durumdur.
+Dropout,Modelin aşırı öğrenmesini önlemek için bazı nöronların eğitim sırasında kapatılmasıdır.
+Veri artırma,Veri miktarını artırmak için çeşitli dönüşümlerle yeni örnekler üretme işlemidir.
+Ayrıştırıcı,Veriyi anlamlı parçalara bölen algoritmadır.
+NLP,Doğal dil işleme; metinlerle çalışan yapay zeka dalıdır.
+Token,Kelimeleri veya parçalarını temsil eden birimlerdir.
+Leksik analiz,Metni anlamlı küçük parçalara ayırma sürecidir.
+Sözdizimi analizi,Cümle yapısını analiz ederek anlam çıkarma sürecidir.
+Özdevinimli öğrenme,Modelin deneme yanılma yoluyla kendi kendine öğrenmesidir.
+Gömülü sistem,Yalnızca belli bir görevi gerçekleştirmek için tasarlanmış sistemdir.
+Geliştirici,Program yazan ve uygulama geliştiren kişidir.
+Kütüphane,Belirli işlevleri gerçekleştiren kod paketidir.
+Çevresel bağımlılık,Bir uygulamanın çalışması için gereken dış unsurlar.
+Model dosya yolu,Eğitilmiş modelin saklandığı konumun dizinidir.
+Makine öğrenimi,Veriden örüntü çıkararak tahmin yapan algoritmalardır.
+Ağırlık güncelleme,Eğitim sırasında model parametrelerinin güncellenmesidir.
+Veri akışı grafiği,TensorFlow gibi sistemlerde işlemlerin bağlandığı yönlü grafik yapısıdır.
+Model kaydetme,Eğitim sonrası modelin sabit diske yazılmasıdır.
+Model yükleme,Kayıtlı bir modeli tekrar belleğe almak.
+Veri çevirimi,Yabancı dilden gelen metnin başka dile dönüştürülmesi süreci.
+Sunucu başlatma,Web uygulamasının çalışmasını başlatma süreci.
+Kod modülü,Belirli görevleri gerçekleştiren bağımsız Python dosyasıdır.
+Script,Küçük ölçekli otomasyon sağlayan Python dosyası.
+Dosya okuma,Bir dosyadaki içeriği belleğe alma işlemi.
+Dosya yazma,Bellekteki verilerin dosyaya aktarılması işlemi.
+Veri formatı,Bir dosyada bilgilerin nasıl düzenlendiğini gösterir (örneğin: CSV- JSON).
+Giriş fonksiyonu,Kullanıcıdan veri alan fonksiyondur.
+Veri taşıma,Verileri bir sistemden başka bir sisteme aktarma süreci.
+Sürüm kontrolü,Kodun farklı zamanlardaki hallerini takip etmeye yarar (örneğin: Git).
+Veritabanı,Yapılandırılmış veri saklama sistemidir.
+Sorgulama,Veritabanından veri alma işlemidir.
+Rastgelelik,Model eğitiminde öğrenme sırasında çeşitlilik yaratır.
+Karar ağacı,Sınıflandırma ya da regresyon yapan bir algoritmadır.
+Destek vektör makineleri,Sınıflandırma problemleri için kullanılan ML algoritmasıdır.
+Logistic regression,Bir olasılığı tahmin eden istatistiksel modeldir.
+Bayes sınıflayıcı,Olasılık kuramına dayalı sınıflandırma algoritmasıdır.
+TF-IDF,Kelimenin belgede ve tüm belgelerdeki önemini hesaplayan yöntemdir.
+Bag of Words,Bir dokümandaki kelimelerin sıklıklarına dayalı temsil yöntemidir.
+Embedding,Metin verilerini sabit boyutlu vektörlere dönüştürme yöntemidir.
+Görselleştirme,Verilerin daha anlaşılır sunulması için grafikleştirilmesidir.
+Label encoding,Etiketlerin sayılara çevrilmesi işlemidir.
+One-hot encoding,Etiketlerin ikili vektörlere dönüştürülmesidir.
+Zaman serisi,Verilerin zamanla sıralandığı veri yapısıdır.
+Standart sapma,Verilerin ortalamadan ne kadar saptığını gösteren ölçüdür.
+Ortalama,Veri kümesinin aritmetik ortalamasıdır.
+Medyan,Veri kümesinin ortasındaki değerdir.
+Mod,Veri kümesinde en sık geçen değerdir.
+Outlier,Veri kümesinden aşırı sapma gösteren değer.
+Dağılım,Verilerin yayılma aralığı.
+Histogram,Veri sıklığını gösteren grafik türüdür.
+Korelasyon,İki değişkenin birbiriyle olan ilişkisini gösterir.
+Varyans,Verilerin ortalama etrafındaki yayılımıdır.
+Normalize etme,Verilerin belirli bir aralıkta ölçeklenmesidir.
+Ölçekleme,Farklı ölçekteki verileri aynı düzeye çekme işlemi.
+Etiketli veri,Üzerinde sınıf bilgisi olan veri.
+Etiketsiz veri,Sınıf bilgisi olmayan veri.
+Denetimli öğrenme,Girdilerle birlikte etiketlerin de verildiği öğrenme biçimi.
+Denetimsiz öğrenme,Yalnızca girdilerin verildiği öğrenme türüdür.
+Yarı denetimli öğrenme,Az sayıda etiketli veriyle çok sayıda etiketsiz verinin birlikte kullanılmasıdır.
+Takviyeli öğrenme,Ödül ve ceza sistemine dayalı öğrenme türüdür.
+Model değerlendirme,Eğitilen modelin başarısının ölçülmesidir.
+Doğruluk metriği,Model başarısını ölçen değerlendirme aracıdır.
+Karmaşıklık matrisi,Tahminlerin sınıflara göre doğruluğunu gösteren tablodur.
+Precision,Belirli bir sınıfa ait doğru tahminlerin oranıdır.
+Recall,Gerçek sınıf örneklerinin ne kadarının yakalandığını gösterir.
+F1 skoru,Precision ve recall’un harmonik ortalamasıdır.
+ROC eğrisi,Modelin farklı eşiklerdeki başarısını gösteren grafik.
+AUC skoru,ROC eğrisinin altındaki alan; modelin genel doğruluğunu gösterir.
+Giriş şekli,Modelin hangi türde veri kabul ettiğini belirten yapı.
+Kod organizasyonu,Kodun mantıksal olarak bölümlere ayrılmasıdır.
+Sınıf,Objeleri temsil eden ve özellik-metot içeren yapıdır.
+Metot,Sınıflar içindeki fonksiyonlardır.
+Nesne örneği,Bir sınıftan türetilmiş veri yapısıdır.
+Kalıtım,Bir sınıfın başka sınıfın özelliklerini devralmasıdır.
+Soyutlama,Detayları gizleyip önemli kısımlara odaklanma prensibidir.
+Kapsülleme,Verilerin doğrudan erişimini engelleyerek güvenli hale getirme.
+Çok biçimlilik,Farklı sınıfların aynı isimli metotları farklı şekilde kullanabilmesi.
+Interface,Bir sınıfın hangi metotlara sahip olacağını tanımlayan yapıdır.
+REST API,HTTP üzerinden veri alışverişi yapılmasını sağlayan servis yapısıdır.
+Endpoint,Bir API üzerinde erişilebilen spesifik bir URL adresidir.
+GET,Sunucudan veri almak için kullanılan HTTP isteğidir.
+POST,Sunucuya veri göndermek için kullanılan HTTP isteğidir.
+PUT,Var olan veriyi güncellemek için kullanılan HTTP isteğidir.
+DELETE,Sunucudaki veriyi silmek için kullanılan HTTP isteğidir.
+JSON,Veri değişiminde yaygın olarak kullanılan hafif veri formatıdır.
+HTTP,İstemci ve sunucu arasında iletişimi sağlayan protokoldür.
+HTTPS,Güvenli veri aktarımı sağlayan şifrelenmiş HTTP protokolüdür.
+Request,İstemciden sunucuya yapılan veri talebidir.
+Response,Sunucunun istemciye verdiği yanıttır.
+Header,HTTP isteklerinde meta bilgileri taşıyan kısımdır.
+Payload,HTTP isteği ile gönderilen verinin içeriğidir.
+Status code,Sunucunun isteğe verdiği cevabın durumunu belirten sayıdır (örnek: 200- 404).
+200 OK,Başarılı bir HTTP isteğini ifade eder.
+404 Not Found,İstenilen kaynağın sunucuda bulunmadığını gösterir.
+500 Internal Server Error,Sunucu taraflı beklenmeyen hata.
+403 Forbidden,Yetkisiz erişim durumunu gösterir.
+401 Unauthorized,Kimlik doğrulaması eksik veya hatalı olduğunda döner.
+Flask route,Flask uygulamasında URL ile fonksiyon eşlemesini sağlar.
+Blueprint,Flask'ta modüler yapıyı destekleyen bileşendir.
+Middleware,İstek ve yanıtlar arasında çalışan ara yazılımdır.
+CORS,Web uygulamasının başka bir domain'e istek göndermesine izin verir.
+Session,Kullanıcıya ait verilerin oturum süresince saklandığı yapıdır.
+Cookie,Tarayıcıda küçük veri parçaları olarak saklanan bilgiler.
+Token,Kimlik doğrulama ve oturum yönetimi için kullanılan dijital anahtardır.
+JWT,Kullanıcı bilgilerini güvenli şekilde taşıyan JSON tabanlı token yapısıdır.
+Environment variable,Çevresel yapılandırma değerlerini saklamak için kullanılan sistem değişkenidir.
+Virtual environment,Python projeleri için bağımsız çalışma ortamı sağlar.
+Requirements.txt,Python projesinin bağımlılıklarını listeleyen dosyadır.
+Pip,Python paket yöneticisidir.
+Conda,Bilimsel hesaplamalar için kullanılan alternatif paket ve ortam yöneticisidir.
+Dependency,Bir projenin düzgün çalışması için gerekli olan dış bileşenlerdir.
+Build,Kaynak koddan çalışabilir yazılım üretme sürecidir.
+Deployment,Yazılımın sunucuda çalışır hale getirilmesi işlemidir.
+DevOps,Yazılım geliştirme ve operasyon süreçlerinin entegrasyonudur.
+CI/CD,Yazılımın otomatik olarak test edilip dağıtılmasını sağlayan sistemdir.
+Docker,Uygulamaları izole edilmiş konteynerlerde çalıştırma aracıdır.
+Container,Bağımsız çalışan yazılım ortamıdır.
+Image,Bir konteynerin çalışması için gerekli yapıların tanımlandığı dosyadır.
+Dockerfile,Docker image’ini oluşturmak için gerekli talimatların yazıldığı dosyadır.
+Kubernetes,Birden fazla konteynerin yönetilmesini sağlayan orkestrasyon sistemidir.
+Debugging,Yazılımdaki hataları bulma ve düzeltme işlemidir.
+Breakpoint,Kodun çalışmasını belirli bir noktada durduran işaretleyicidir.
+Loglama,Programın çalışma sürecinde gerçekleşen olayların kayıt altına alınmasıdır.
+Stack trace,Bir hatanın oluştuğu anda çalışan fonksiyonların geçmişi.
+Exception,Beklenmeyen durumlar için kullanılan hata sınıfıdır.
+Try-Except,Hata durumlarında programın çökmeden devam etmesini sağlayan yapı.
+Assertion,Bir ifadenin doğru olup olmadığını kontrol eden test yöntemi.
+Unit test,Kodun en küçük parçalarını test eden yöntemdir.
+Integration test,Birden fazla bileşenin birlikte çalışma durumunu test eder.
+Test case,Belirli bir durumu test etmek için yazılan senaryodur.
+Test coverage,Yazılan testlerin kodu ne kadar kapsadığını gösterir.
+Mocking,Bir bileşeni taklit ederek test ortamında kullanılmasını sağlar.
+TDD,Yazılım testlerini koddan önce yazma yaklaşımıdır.
+BDD,Kullanıcı davranışına göre yazılım test senaryoları hazırlama yaklaşımıdır.
+Linting,Kodun biçimsel hatalarını denetleyen süreçtir.
+PEP8,Python dilinde kodlama standartlarını belirleyen rehberdir.
+Refactoring,Kodun işlevini değiştirmeden daha okunabilir ve temiz hale getirilmesidir.
+Code smell,Kodda potansiyel problemlere işaret eden yapılar.
+Technical debt,Yazılım geliştirmede hızlı çözüm arayışından doğan ileride sorun yaratabilecek eksiklerdir.
+Versioning,Yazılımın farklı sürümlerinin yönetilmesidir.
+Semantic versioning,Versiyon numaralandırmasında anlamlı artışlar yapılması yöntemidir.
+Repository,Projelerin kaynak kodlarının saklandığı depo.
+Branch,Bir projenin alternatif geliştirme hattıdır.
+Merge,İki kod dalının birleştirilmesidir.
+Pull request,Başka bir branch’teki kod değişikliklerini ana branch'e dahil etme isteği.
+Commit,Kodda yapılan değişikliklerin açıklama ile kayıt altına alınmasıdır.
+Diff,İki commit arasındaki farkları gösteren değişim listesi.
+Staging area,Commit yapılmadan önceki geçici alan.
+Merge conflict,İki branch birleştirilirken çakışma olması durumu.
+Rebase,Bir branch’in tabanını başka bir branch ile güncelleme yöntemi.
+Tag,Belirli commit’lere isim verilerek sürüm işaretlenmesidir.
+CLI,Komut satırı arayüzüdür.
+Terminal,Yazılımcıların CLI üzerinden komut girdiği arayüzdür.
+Shell script,Bir dizi komutu çalıştırmak için yazılmış dosyadır.
+Bash,Unix ve Linux sistemlerinde kullanılan komut dili.
+PowerShell,Windows sistemleri için komut satırı aracıdır.
+Cross-platform,Farklı işletim sistemlerinde çalışabilen uygulamadır.
+Single-page application,Tek bir HTML sayfası üzerinden çalışan web uygulamasıdır.
+Frontend,Tarayıcıda çalışan kullanıcı arayüzüdür.
+UI,Kullanıcının yazılımla etkileşim kurduğu görsel arayüzdür.
+UX,Kullanıcının yazılımı kullanırken yaşadığı deneyim.
+Wireframe,Bir uygulamanın temel yapısının çizildiği şemadır.
+Responsive design,Cihaz boyutuna göre uyumlu görünüm sağlayan tasarımdır.
+Media query,Ekran boyutuna göre CSS kuralları belirlemeye yarayan yapıdır.
+CSS framework,Hazır stillerle tasarımı kolaylaştıran sistemlerdir (örneğin: Bootstrap).
+JavaScript framework,Web arayüzlerini kolaylaştırmak için geliştirilen yapılardır (örneğin: React).
+Template engine,HTML sayfalarında dinamik içerik oluşturmayı sağlar.
+Jinja2,Flask uygulamalarında kullanılan şablon motorudur.
+Static files,Değişmeyen dosyalar (örneğin: CSS- JS- görseller).
+Form validation,Girilen verilerin kurallara uygunluğunun denetlenmesi süreci.
+CSRF,XSS gibi saldırılara karşı form güvenliği sağlamayı amaçlayan koruma yöntemidir.
+XSS,Saldırganın siteye kötü amaçlı script enjekte etmesidir.
+SQL Injection,Veritabanına zararlı komutların gönderilmesi yoluyla yapılan saldırıdır.
+Hashing,Verinin geri döndürülemez biçimde dönüştürülmesidir.
+Salting,Hashleme öncesi veriye ek veri (salt) ekleyerek güvenliği artırma yöntemi.
+OAuth,Üçüncü taraf uygulamaların güvenli erişim sağlayabileceği yetkilendirme protokolüdür.
+Rate limiting,Bir IP veya kullanıcı için belirli zaman diliminde istek sınırı koyma işlemidir.
+Captcha,Otomatik botları engellemek için kullanılan testlerdir.
+Two-factor authentication,Giriş işlemlerinde iki aşamalı güvenlik uygulamasıdır.
+Brute force attack,Tüm olasılıkları deneyerek parola kırmaya çalışan saldırı biçimi.
+Observer pattern,Nesnelerin birbirine haber vermesini sağlayan yazılım tasarım desenidir.
+Singleton pattern,Bir sınıfın sadece tek bir örneği olması gerektiği durumlar için kullanılan desendir.
+Factory pattern,Nesne yaratma sürecini soyutlayan bir tasarım desenidir.
+Adapter pattern,Uyumlu olmayan arayüzleri birbirine bağlayan yapıdır.
+Decorator pattern,Bir nesnenin davranışını dinamik olarak değiştiren desendir.
+Proxy pattern,Bir nesneye erişimi kontrol eden yapı görevi gören tasarım desenidir.
+Strategy pattern,Farklı algoritmaları birbirinin yerine geçecek şekilde kullanan desendir.
+MVC,Model-View-Controller yapısı; yazılımı 3 parçaya ayırır: veri- arayüz ve iş mantığı.
+MVVM,Model-View-ViewModel yapısı; özellikle modern UI frameworklerinde kullanılan mimaridir.
+Microservice,Her işlevin bağımsız bir servis olarak ayrıldığı yazılım mimarisi.
+Monolithic,Bütün işlevlerin tek uygulama içinde bulunduğu mimari yapıdır.
+Scalability,Bir yazılımın artan iş yüküne karşı performansını koruyabilme yeteneğidir.
+Latency,Bir isteğin gönderilmesiyle yanıt alınması arasındaki süredir.
+Throughput,Bir sistemin birim zamanda işleyebildiği işlem miktarıdır.
+Load balancing,Gelen isteklerin birden fazla sunucuya dengeli dağıtılmasıdır.
+Caching,Sık kullanılan verilerin geçici olarak saklanması yoluyla hız kazandırılmasıdır.
+Memory leak,Gereksiz yere RAM’de tutulan ve temizlenmeyen veri birikimidir.
+Garbage collection,Kullanılmayan nesnelerin hafızadan temizlenmesini sağlayan sistemdir.
+Thread,Program içinde aynı anda çalışan bağımsız yürütme birimidir.
+Process,Bir programın işletim sisteminde çalışan örneğidir.
+Concurrency,Aynı anda birden fazla işin yürütülmesi işlemidir.
+Parallelism,İşlerin eş zamanlı fiziksel olarak yürütülmesidir.
+Asynchronous,Bir işlemin diğerini beklemeden çalışabilmesi durumudur.
+Synchronous,Bir işlemin tamamlanmadan diğerine geçilmemesi durumudur.
+Event loop,Asenkron işlemleri sırayla çalıştıran yapıdır.
+Promise,JavaScript’te asenkron işlemlerde kullanılmak üzere oluşturulan nesnedir.
+Callback,Bir işlemin sonunda çağrılan fonksiyondur.
+Await,Asenkron fonksiyonun sonucunu beklemek için kullanılır.
+Thread-safe,Birden fazla iş parçacığı tarafından güvenli şekilde kullanılabilen yapıdır.
+Deadlock,İki işlem birbirini beklediği için ilerleyememe durumudur.
+Race condition,Birden fazla işlemin sırasına bağlı olarak yanlış sonuç üretme durumu.
+Critical section,İş parçacıklarının erişiminde dikkat gerektiren kod bloğudur.
+Semaphore,Eş zamanlı çalışan iş parçacıklarını sınırlamak için kullanılan kontrol yapısı.
+Mutex,Aynı anda tek bir iş parçacığının belirli bir bölgeye girmesini sağlayan yapı.
+CI/CD pipeline,Kodun sürekli entegrasyon ve dağıtım süreçlerini tanımlayan akış zinciri.
+Test automation,Yazılım testlerinin otomatik olarak yapılmasını sağlayan sistemler.
+Selenium,Web uygulamalarının testini otomatikleştiren framework.
+PyTest,Python için popüler test framework'üdür.
+Unittest,Python içinde yerleşik olarak gelen test modülüdür.
+Mock,Testlerde bağımlı bileşenleri taklit eden nesnelerdir.
+Test suite,Birden fazla testin birlikte çalıştırıldığı test gruplarıdır.
+Smoke test,Yazılımın temel fonksiyonlarının çalışıp çalışmadığını hızlıca kontrol eden testtir.
+Regression test,Yeni değişikliklerin mevcut özellikleri bozup bozmadığını kontrol eden testtir.
+Performance test,Yazılımın hız- yanıt süresi gibi ölçümlerini yapar.
+Load test,Bir uygulamanın eşzamanlı kullanıcı yükü altında nasıl davrandığını test eder.
+Stress test,Sistem sınırlarını zorlayarak dayanıklılığını test eder.
+A/B test,İki farklı versiyonun kullanıcılar üzerindeki etkisini ölçen test yöntemidir.
+Usability test,Kullanıcıların yazılımı ne kadar kolay ve etkili kullandığını ölçer.
+Acceptance test,Yazılımın kullanıcı gereksinimlerini karşılayıp karşılamadığını kontrol eder.
+Agile,Yazılım geliştirmede esnek- iteratif ve kullanıcı odaklı yaklaşım.
+Scrum,Agile metodolojisinin belirli kurallar içeren versiyonudur.
+Sprint,Scrum'da belirli bir süre zarfında tamamlanması gereken işlerin planlandığı döngüdür.
+Backlog,Gelecekte yapılacak işlerin sıralandığı listedir.
+Kanban,İş akışını görselleştiren ve takip etmeyi kolaylaştıran yönetim sistemidir.
+User story,Kullanıcı ihtiyaçlarını tanımlayan kısa açıklamalardır.
+Story point,İşlerin zorluk derecesini gösteren puanlama sistemidir.
+Burndown chart,Tamamlanan işlerin zaman içindeki grafiğini gösterir.
+Retrospective,Sprint sonunda yapılan değerlendirme toplantısıdır.
+Daily stand-up,Kısa günlük ekip toplantısıdır.
+Product owner,Ürün vizyonunu tanımlayan ve önceliklendiren kişidir.
+Scrum master,Scrum süreçlerinin sağlıklı yürütülmesini sağlayan kişidir.
+Team velocity,Ekiplerin bir sprintte gerçekleştirdiği iş miktarıdır.
+Code review,Kodun başka bir geliştirici tarafından kontrol edilme sürecidir.
+Pair programming,İki yazılımcının aynı kod üzerinde birlikte çalışmasıdır.
+Codebase,Projenin tüm kaynak kodlarını kapsayan yapıdır.
+Hotfix,Acil olarak yapılan hata düzeltme işlemidir.
+Patch,Küçük çaplı yazılım güncellemesi veya düzeltmesidir.
+Release,Belirli bir versiyonun kullanıcıya sunulmasıdır.
+Rollback,Yeni versiyonda sorun çıkması durumunda eski sürüme dönüş işlemidir.
+Feature flag,Yazılım özelliğini canlıda açıp kapatmaya yarayan sistemdir.
+Changelog,Bir yazılım sürümündeki değişikliklerin listelendiği dosyadır.
+README,Bir projenin amacı kullanımı ve kurulumu hakkında bilgi veren dosyadır.
+LICENSE,Bir yazılımın kullanım şartlarını belirten dosyadır.
+CLI tool,Komut satırı üzerinden çalışan yardımcı araçlardır.
+REPL,Kodun anlık yazılıp çalıştırıldığı etkileşimli ortamdır.
+Interactive shell,Kullanıcının anlık komutlar verebildiği komut satırı ortamı.
+Context manager,"with" ifadesiyle açılan ve kaynak yönetimi sağlayan yapı.
+List comprehension,Python'da hızlı ve kısa liste üretme yapısıdır.
+Generator,Yüksek bellek verimliliği sağlayan iteratif yapı.
+Decorator (Python),Fonksiyonlara dinamik özellikler ekleyen yapılardır.
+Lambda function,İsimsiz (anonim) küçük fonksiyonlardır.
+Map,Yinelenebilir bir dizideki her öğeye fonksiyon uygulayan yapı.
+Filter,Belirli koşula uyan elemanları seçen yapıdır.
+Reduce,Listedeki tüm elemanları birleştirerek tek bir değer üretir.
+Zip,İki veya daha fazla listeyi paralel olarak birleştiren yapı.
+Enumerate,Listenin hem indeksini hem elemanını birlikte elde etmemizi sağlar.
+Iterable,Yinelenebilir veri yapısıdır (örneğin: liste- sözlük).
+Iterator,Iterable veri yapıları üzerinde gezinmek için kullanılan nesnedir.
+Duck typing,"Eğer ördek gibi yürüyorsa ördektir" mantığında tip kontrolüdür.
+Polymorphism,Aynı isimli fonksiyonların farklı şekillerde çalışabilmesi.
+Encapsulation,Veriyi ve işlemleri bir sınıf içerisinde gizleyerek koruma.
+Abstraction,Gereksiz detayları gizleyip önemli bilgileri ön plana çıkarma.
+Inheritance,Bir sınıfın başka bir sınıftan özellik devralması.
+Composition,Bir nesnenin başka nesneleri içermesi yoluyla davranış kazanması.
+Metaclass,Sınıf üretmek için kullanılan sınıflardır.
+Cloud computing,İnternet üzerinden sunucu- depolama ve hizmetlere erişim sağlayan teknoloji.
+IaaS,Infrastructure as a Service; altyapı hizmetlerinin bulut üzerinden sağlanmasıdır.
+PaaS,Platform as a Service; uygulama geliştirme platformunun bulut üzerinden sunulmasıdır.
+SaaS,Software as a Service; yazılımların bulut üzerinden hizmet olarak sunulmasıdır.
+Virtual machine,Fiziksel bir makine üzerinde çalışan sanal bilgisayardır.
+Container,İzolasyon sağlayarak uygulamaları bağımlılıklarıyla birlikte çalıştıran yapılardır.
+Docker,Uygulamaları container içinde çalıştırmak için kullanılan platformdur.
+Kubernetes,Container’ların orkestrasyonunu ve yönetimini sağlayan sistemdir.
+Helm,Kubernetes üzerinde uygulamaları yönetmek için kullanılan paket yöneticisidir.
+Pod,Kubernetes içinde bir veya daha fazla container’ın birlikte çalıştığı birimdir.
+Node,Kubernetes kümesinde çalışan fiziksel veya sanal makinedir.
+Cluster,Birden fazla sunucudan oluşan ve birlikte çalışan sistem grubudur.
+YAML,Yapılandırma dosyalarında sık kullanılan- okunabilir veri biçimidir.
+Terraform,Altyapının kod ile yönetilmesini sağlayan bir araçtır.
+Ansible,Yapılandırma yönetimi ve otomasyon için kullanılan yazılım aracıdır.
+CI/CD,Sürekli entegrasyon ve sürekli dağıtım süreçlerini ifade eder.
+GitLab CI,GitLab üzerinde CI/CD süreçlerinin yönetilmesini sağlayan sistemdir.
+Jenkins,Otomatikleştirilmiş yazılım süreçlerini yöneten açık kaynaklı CI/CD aracıdır.
+Artifact,Derleme sonrası üretilen ve dağıtılacak dosyalardır.
+Pipeline,Koddan üretime kadar tüm otomasyon adımlarının tanımlandığı süreç zinciridir.
+Environment,Uygulamanın çalıştığı ortam (dev- staging- production vb.).
+Secrets,Yazılımda kullanılan API anahtarları veya şifre gibi gizli bilgiler.
+Hashicorp,DevOps araçlarıyla bilinen yazılım şirketi (örnek: Terraform- Vault).
+Vault,Hassas bilgileri güvenli bir şekilde depolamak için kullanılan araçtır.
+Monitoring,Sistem ve uygulamaların anlık izlenmesi sürecidir.
+Observability,Sistemin içsel durumunu dışardan anlamayı kolaylaştıran genel izleme yaklaşımıdır.
+Prometheus,Kubernetes ortamlarında yaygın olarak kullanılan izleme sistemidir.
+Grafana,Verileri görselleştirme ve izleme aracı olarak kullanılan platformdur.
+Alerting,Sistemsel durumlara göre uyarı gönderen bildirim sistemidir.
+Log,Programın çalışması sırasında oluşturulan olay kayıtlarıdır.
+Log aggregation,Birden fazla kaynaktan log verilerini birleştirme sürecidir.
+ElasticSearch,Log ve metin tabanlı verilerin aranıp analiz edilmesini sağlayan veri tabanı sistemidir.
+Kibana,ElasticSearch loglarının görselleştirilmesini sağlayan araçtır.
+Filebeat,Log dosyalarını okuyarak ElasticSearch’e yönlendiren ajan yazılımıdır.
+NLP,Doğal dil işleme; bilgisayarların insan dilini anlamasını sağlar.
+Tokenization,Bir metni kelimelere veya alt birimlere ayırma süreci.
+Stemming,Kelimenin kök haline indirgenmesi sürecidir.
+Lemmatization,Kelimeleri köklerine anlamlı biçimde indirgeme işlemidir.
+Bag of Words,Metni kelime sıklığına göre sayısallaştıran yöntemdir.
+TF-IDF,Kelimelerin önemini belgeye göre ölçen istatistiksel yöntem.
+Word2Vec,Kelimeleri vektörel temsile dönüştüren yapay sinir ağı modelidir.
+GloVe,Kelimelerin bağlamsal anlamlarını vektörleştiren modeldir.
+Transformer,Doğal dil işleme problemlerinde kullanılan yapay sinir ağı mimarisi.
+Attention mechanism,Girişin farklı bölümlerine odaklanarak anlam çıkarmayı sağlayan yapı.
+BERT,Google tarafından geliştirilen dil modeli; cümle anlayışı için kullanılır.
+GPT,Generative Pre-trained Transformer; dil üretimi için geliştirilen model ailesi.
+Token,Yapay zekâda veya NLP'de işlenen metin birimi.
+Sequence padding,Farklı uzunluktaki dizileri eşitlemek için yapılan işlem.
+Embedding,Kelimeleri sayısal vektörlere dönüştürme işlemi.
+Epoch,Yapay sinir ağlarında tüm veri setinin bir kez modele gösterilmesi sürecidir.
+Batch size,Modelin her seferde gördüğü örnek sayısıdır.
+Loss function,Modelin tahmini ile gerçek sonuç arasındaki farkı ölçen fonksiyondur.
+Optimizer,Modelin hatasını azaltmak için ağırlıkları güncelleyen algoritmadır.
+Backpropagation,Yapay sinir ağında hatanın katmanlar boyunca geriye iletilmesidir.
+Gradient descent,Kayıp fonksiyonunu minimize eden optimizasyon algoritmasıdır.
+Overfitting,Modelin eğitim verisine aşırı uyum sağlayarak genelleme kabiliyetini kaybetmesi.
+Underfitting,Modelin veriyi yeterince öğrenememesi durumu.
+Dropout,Overfitting’i önlemek için rastgele bazı bağlantıların geçici devre dışı bırakılması.
+Regularization,Modelin karmaşıklığını sınırlayarak aşırı öğrenmeyi önleme tekniğidir.
+Cross-validation,Modeli test etmek için veri setini alt kümelere ayırma yöntemidir.
+Train-test split,Veriyi eğitim ve test olarak ikiye ayırma işlemidir.
+Confusion matrix,Sınıflandırma modellerinin başarı durumunu gösteren matristir.
+Precision,Tahmin edilen olumlu sonuçların ne kadarının doğru olduğunu gösterir.
+Recall,Gerçek olumlu örneklerin ne kadarının doğru tahmin edildiğini gösterir.
+F1 score,Precision ve recall'un harmonik ortalamasıdır.
+ROC curve,Modelin sınıflandırma başarısını gösteren grafiksel analiz aracıdır.
+AUC,ROC eğrisinin altında kalan alanı ifade eder; model başarısını gösterir.
+Hyperparameter tuning,Modelin dışsal parametrelerini optimize etme süreci.
+Grid search,Parametre kombinasyonlarını deneyerek en iyi sonucu bulma yöntemi.
+Random search,Rastgele parametre kombinasyonları ile model başarısı arayışı.
+Model serialization,Eğitilen modelin dosyaya kaydedilmesi işlemidir.
+Pickle,Python nesnelerinin dosyaya kaydedilip tekrar yüklenmesini sağlayan modül.
+Joblib,Büyük boyutlu verileri daha hızlı saklamak için kullanılan Python kütüphanesi.
+ONNX,Modelleri farklı frameworkler arasında taşıyabilmek için geliştirilen ortak biçim.
+TensorFlow,Google tarafından geliştirilen açık kaynaklı derin öğrenme kütüphanesi.
+PyTorch,Facebook tarafından geliştirilen popüler derin öğrenme framework’üdür.
+Keras,Yüksek seviyeli sinir ağı API’sidir; TensorFlow üzerine kurulmuştur.
+Scikit-learn,Python’da makine öğrenimi algoritmalarını barındıran popüler kütüphanedir.
+Pandas,Veri analizi ve manipülasyonu için kullanılan Python kütüphanesidir.
+Numpy,Sayısal hesaplamalar için kullanılan temel Python kütüphanesidir.
+Matplotlib,Python’da grafik çizimi yapmak için kullanılan kütüphanedir.
+Seaborn,İstatistiksel veri görselleştirmeleri sağlayan gelişmiş grafik kütüphanesi.
+Plotly,Etkileşimli grafikler oluşturmaya yarayan Python kütüphanesidir.
+Dataframe,Pandas kütüphanesinde kullanılan iki boyutlu veri yapısıdır.
+Series,Pandas’ta tek boyutlu veri dizisidir.
+CSV,Verilerin virgülle ayrılmış biçimde tutulduğu dosya formatıdır.
+JSON,Veri değişimi için kullanılan- insan tarafından okunabilir biçimdir.
+XML,Veriyi hiyerarşik şekilde yapılandırmak için kullanılan biçim.
+Parquet,Büyük veri işlemlerinde kullanılan sütun bazlı dosya formatıdır.
+Feather,Yüksek hızlı veri okuma/yazma sağlayan dosya biçimidir.
+HDF5,Büyük miktarda verinin verimli şekilde saklandığı dosya formatıdır.
+Data ingestion,Verilerin sisteme alınması sürecidir.
+ETL,Extract-Transform-Load; verinin alınması- dönüştürülmesi ve yüklenmesini ifade eder.
+ELT,Extract-Load-Transform; verinin önce yüklenip sonra işlenmesini ifade eder.
+Data pipeline,Verinin bir dizi işlemden geçirilerek dönüştürüldüğü sistemdir.
+Data warehouse,Büyük verilerin analiz amaçlı toplandığı merkezi veri deposudur.
+Data lake,Ham verilerin toplandığı büyük veri havuzudur.
+tokenizer.texts_to_sequences,Tokenizer nesnesinin metni sayısal dizilere dönüştürmek için kullandığı fonksiyondur.
+model,Makine öğrenmesi veya derin öğrenme algoritması ile eğitilmiş tahmin yapabilen yapıdır.
+ön,Yazılımda bir işlemin veya verinin "ön" (önceden) işlenmesi veya hazırlanması anlamında.
+yazılım,Bilgisayarlarda çalışan her türlü program ve komutlar bütünüdür.
+basit,Genellikle karmaşık olmayan- anlaşılır ve temel yapıdaki kod veya yapılar için kullanılır.
+tokenizer.texts_to_sequences,Metni sayısal dizilere dönüştüren Keras Tokenizer metodudur.
+ve,Programlamada mantıksal işlemlerde kullanılan bir operatördür (örneğin and).
+anahtar,Genellikle “anahtar kelime” (keyword) anlamında-programlama dillerinde özel anlamı olan kelimelerdir.
+erişim,Bir değişken ya da fonksiyona erişim iznini belirtir (örnek: public-private).
+kontrol,Koşullu ifadeler ve hata yönetimi gibi mantık kontrollerini ifade eder.
+hata,Yazılımda istenmeyen veya beklenmeyen davranışları ifade eder.
+kullanıcı,Yazılımı kullanan birey veya sistemdir.
+terimleri,Belirli bir alanla ilgili teknik sözcüklerdir.
